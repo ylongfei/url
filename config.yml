@@ -58,15 +58,6 @@ content:
         - name: 花瓣
           description: 收集灵感,保存有用的素材
           url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
         - name: Google
           description: 全球最大的UI学习分享平台
           url: https://www.google.com/
@@ -760,6 +751,5 @@ content:
         - name: 百度企业产品用户体验中心
           description: 百度企业产品用户体验中心
           url: http://eux.baidu.com/
-        - name: 携程设计委员会
-          description: 携程设计委员会-Ctrip Design Committee
-          url: http://ued.ctrip.com/
+        - name: 
+          url: 
