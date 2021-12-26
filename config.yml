@@ -1,5 +1,5 @@
 # title of website
-title: url.github.io
+title: 个人导航
 
 # description of website
 description: ylongfei's navigation site
@@ -14,7 +14,7 @@ url: https://ylongfei.github.io/url.github.io/
 github: "https://github.com/ylongfei"
 
 # footer message
-footer: © 2021-2021 @ylongfei
+footer: © 2019-2021 @ylongfei
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -26,13 +26,12 @@ google_analytics: "G-EXE1PJ8CR2"
 webstack:
   search:
     enabled: true
-    default: google
+    default: baidu
     # 可选的搜索引擎
     engines:
-      - google
+      - baidu
       - github
       - weibo
-      - baidu
       - bilibili
       - zhihu
 
@@ -58,9 +57,7 @@ content:
         - name: 花瓣
           description: 收集灵感,保存有用的素材
           url: http://huaban.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
+      
         - name: Medium
           description: Read, write and share stories that matter
           url: https://medium.com/
@@ -69,9 +66,6 @@ content:
         - name: 咕噜素材
           description: 质量很高的设计素材网站（推荐）
           url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
         - name: 字体仓库
           description: 最全的免费商用字体库
           url: https://www.ziticangku.com/
@@ -110,9 +104,7 @@ content:
         - name: 鸟哥笔记
           description: 移动互联网第一干货平台
           url: http://www.niaogebiji.com/
-        - name: 古田路9号
-          description: 国内专业品牌创意平台
-          url: http://www.gtn9.com/
+      
         - name: 优阁网
           description: UI设计师学习交流社区
           url: http://www.uigreat.com/
@@ -124,12 +116,6 @@ content:
         - name: 少数派
           description: 高品质数字消费指南
           url: https://sspai.com/
-        - name: 利器
-          description: 创造者和他们的工具
-          url: http://liqi.io/
-        - name: Today
-          description: 为身边的新产品喝彩
-          url: http://today.itjuzi.com/
         - name: 小众软件
           description: 在这里发现更多有趣的应用
           url: https://faxian.appinn.com/
@@ -142,9 +128,7 @@ content:
         - name: UI uigreat
           description: APP界面截图参考
           url: http://ui.uigreat.com/
-        - name: Android Niceties
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          url: http://androidniceties.tumblr.com/
+      
     - name: 网页灵感
       sites:
         - name: Awwwards
@@ -159,27 +143,11 @@ content:
         - name: Ecommercefolio
           description: Only the Best Ecommerce Design Inspiration
           url: http://www.ecommercefolio.com/
-        - name: Lapa
-          description: The best landing page design inspiration from around the web.
-          url: http://www.lapa.ninja/
-        - name: Reeoo
-          description: web design inspiration and website gallery
-          url: http://reeoo.com/
-        - name: Designmunk
-          description: Best Homepage Design Inspiration
-          url: https://designmunk.com/
-        - name: Best Websites Gallery
-          description: Website Showcase Inspiration | Best Websites Gallery
-          url: https://bestwebsite.gallery/
+       
         - name: Pages
           description: Curated directory of the best Pages
           url: http://www.pages.xyz/
-        - name: SiteSee
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-          url: https://sitesee.co/
-        - name: Site Inspire
-          description: A CSS gallery and showcase of the best web design inspiration.
-          url: https://www.siteinspire.com/
+      
         - name: WebInspiration
           description: 网页设计欣赏,全球顶级网页设计
           url: http://web.uedna.com/
@@ -197,12 +165,6 @@ content:
         - name: iconfont
           description: 阿里巴巴矢量图标库
           url: http://www.iconfont.cn/
-        - name: iconmonstr
-          description: Free simple icons for your next project
-          url: https://iconmonstr.com/
-        - name: Icon Archive
-          description: Search 590,912 free icons
-          url: http://www.iconarchive.com/
         - name: FindIcons
           description: Search through 300,000 free icons
           url: https://findicons.com/
@@ -212,43 +174,10 @@ content:
         - name: easyicon
           description: PNG、ICO、ICNS格式图标搜索、图标下载服务
           url: http://www.easyicon.net/
-        - name: flaticon
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-          url: https://www.flaticon.com/
-        - name: UICloud
-          description: The largest user interface design database in the world.
-          url: http://ui-cloud.com/
-        - name: Material icons
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-          url: https://material.io/icons/
-        - name: Font Awesome Icon
-          description: The complete set of 675 icons in Font Awesome
-          url: fontawesomeicon
-        - name: ion icons
-          description: The premium icon font for Ionic Framework.
-          url: http://ionicons.com/
-        - name: Simpleline Icons
-          description: Simple line Icons pack
-          url: http://simplelineicons.com/
-    - name: LOGO设计
-      sites:
-        - name: Iconsfeed
-          description: iOS icons gallery
-          url: http://www.iconsfeed.com/
-        - name: iOS Icon Gallery
-          description: Showcasing beautiful icon designs from the iOS App Store
-          url: http://iosicongallery.com/
-        - name: World Vector Logo
-          description: Brand logos free to download
-          url: https://worldvectorlogo.com/
-        - name: Instant Logo Search
-          description: Search & download thousands of logos instantly
-          url: http://instantlogosearch.com/
+    
     - name: 平面素材
       sites:
-        - name: wallhalla
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-          url: https://wallhalla.com/
+        
         - name: 365PSD
           description: Free PSD & Graphics, Illustrations
           url: https://365psd.com/
@@ -282,9 +211,7 @@ content:
         - name: 素材中国
           description: 免费素材共享平台
           url: http://www.sccnn.com/
-        - name: freepik
-          description: More than a million free vectors, PSD, photos and free icons.
-          url: https://www.freepik.com/
+        
     - name: UI资源
       sites:
         - name: Freebiesbug
@@ -299,35 +226,12 @@ content:
         - name: 稀土区
           description: 优质设计开发资源分享
           url: https://xituqu.com/
-        - name: ui8
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-          url: https://ui8.net/
-        - name: uplabs
-          description: Daily resources for product designers & developers
-          url: https://www.uplabs.com/
         - name: UIkit.me
           description: 最便捷新鲜的uikit资源下载网站
           url: http://www.uikit.me/
-        - name: Fribbble
-          description: Free PSD files and other free design resources by Dribbblers.
-          url: http://www.fribbble.com/
-        - name: PrincipleRepo
-          description: Free, High Quality Principle Resources
-          url: http://principlerepo.com/
-        - name: Designmodo
-          description: Web Design Blog and Shop
-          url: https://designmodo.com/
     - name: Sketch资源
       sites:
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-        - name: Sketch Measure
-          description: Friendly user interface offers you a more intuitive way of making marks.
-          url: http://utom.design/measure/
-        - name: Sketch App Sources
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-          url: https://www.sketchappsources.com/
+       
         - name: Sketch.im
           description: Sketch 相关资源汇聚
           url: http://www.sketch.im/
@@ -375,47 +279,9 @@ content:
         - name: Fontex
           description: Free Fonts to Download + Premium Typefaces
           url: http://www.fontex.org/
-        - name: FontM
-          description: Free Fonts
-          url: http://fontm.com/
-        - name: My Fonts
-          description: Fonts for Print, Products & Screens
-          url: http://www.myfonts.com/
-        - name: Da Font
-          description: Archive of freely downloadable fonts.
-          url: https://www.dafont.com/
-        - name: OnlineWebFonts
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-          url: https://www.onlinewebfonts.com/
-        - name: Abstract Fonts
-          description: Abstract Fonts (13,866 free fonts)
-          url: http://www.abstractfonts.com/
-    - name: Mockup
-      sites:
-        - name: MockupZone
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-          url: https://mockup.zone/
-        - name: Dunnnk
-          description: Generate Product Mockups For Free
-          url: http://dunnnk.com/
-        - name: Graphberry
-          description: Free design resources, Mockups, PSD web templates, Icons
-          url: http://www.graphberry.com/
-        - name: Threed
-          description: Generate 3D Mockups right in your Browser
-          url: http://threed.io/
-        - name: Mockup World
-          description: The best free Mockups from the Web
-          url: https://free.lstore.graphics/
-        - name: Lstore
-          description: Exclusive mindblowing freebies for designers and developers
-          url: https://free.lstore.graphics/
-        - name: pixeden
-          description: free web resources and graphic design templates.
-          url: https://www.pixeden.com/
-        - name: For Graphic TM
-          description: High Quality PSD Mockups for Graphic Designers.
-          url: http://forgraphictm.com/
+
+        
+  
     - name: 摄影图库
       sites:
         - name: Unsplash
@@ -430,21 +296,7 @@ content:
         - name: pixabay
           description: 可在任何地方使用的免费图片和视频
           url: https://pixabay.com/
-        - name: SplitShire
-          description: Free Stock Photos and Videos for commercial use.
-          url: https://www.splitshire.com/
-        - name: StockSnap
-          description: Beautiful free stock photos
-          url: https://stocksnap.io/
-        - name: albumarium
-          description: The best place to find & share beautiful images
-          url: http://albumarium.com/
-        - name: myphotopack
-          description: A free photo pack just for you. Every month.
-          url: https://myphotopack.com/
-        - name: Notaselfie
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
-          url: http://notaselfie.com/
+      
         - name: papers
           description: Wallpapers Every Hour!Hand collected :)
           url: http://papers.co/
@@ -550,61 +402,10 @@ content:
         - name: figma
           description: Design, prototype, and gather feedback all in one place with Figma.
           url: https://www.figma.com/
-    - name: 交互动效
-      sites:
-        - name: Adobe After Effects CC
-          description: 电影般的视觉效果和动态图形。
-          url: https://www.adobe.com/cn/products/aftereffects/
-        - name: principle
-          description: Animate Your Ideas, Design Better Apps
-          url: http://principleformac.com/
-        - name: flinto
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
-          url: https://www.flinto.com/
-        - name: framer
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
-          url: https://framer.com/
-        - name: ProtoPie
-          description: 高保真交互原型设计
-          url: http://www.protopie.cn/
+
     - name: 在线配色
       sites:
-        - name: khroma
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-          url: http://khroma.co/generator/
-        - name: uigradients
-          description: Beautiful colored gradients
-          url: https://uigradients.com
-        - name: gradients
-          description: Curated gradients for designers and developers
-          url: http://gradients.io/
-        - name: Coolest
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff
-          url: https://webkul.github.io/coolhue/
-        - name: webgradients
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
-          url: https://webgradients.com/
-        - name: grabient
-          description: 2017 Grabient by unfold
-          url: https://www.grabient.com/
-        - name: thedayscolor
-          description: The daily color digest
-          url: http://www.thedayscolor.com/
-        - name: flatuicolors
-          description: Copy Paste Color Pallette from Flat UI Theme
-          url: http://flatuicolors.com/
-        - name: coolors
-          description: The super fast color schemes generator!
-          url: https://coolors.co/
-        - name: colorhunt
-          description: Beautiful Color Palettes
-          url: http://www.colorhunt.co/
-        - name: Adobe Color CC
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-          url: https://color.adobe.com/zh/create/color-wheel
-        - name: flatuicolorpicker
-          description: Best Flat Colors For UI Design
-          url: http://www.flatuicolorpicker.com/
+        
         - name: trianglify
           description: Trianglify Generator
           url: http://qrohlf.com/trianglify-generator/
@@ -619,41 +420,14 @@ content:
         - name: tinypng
           description: Optimize your images with a perfect balance in quality and file size.
           url: https://tinypng.com/
-        - name: goqr
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-          url: http://goqr.me/
-        - name: ezgif
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-          url: https://ezgif.com
-        - name: Android 9 patch
-          description: Android 9-patch shadow generator fully customizable shadows
-          url: http://inloop.github.io/shadow4android/
-        - name: screen sizes
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-          url: http://screensiz.es/
+       
         - name: svgomg
           description: SVG在线压缩平台
           url: https://jakearchibald.github.io/svgomg/
         - name: 稿定抠图
           description: 免费在线抠图软件,图片快速换背景-抠白底图
           url: https://www.gaoding.com
-    - name: 设计规范
-      sites:
-        - name: Design Guidelines
-          description: Design Guidelines — The way products are built.
-          url: http://designguidelines.co/
-        - name: Awesome design systems
-          description: A collection of awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-        - name: Material Design
-          description: Introduction - Material Design
-          url: https://material.io/guidelines/
-        - name: Human Interface Guidelines
-          description: Human Interface Guidelines iOS
-          url: https://developer.apple.com/ios/human-interface-guidelines
-        - name: Photoshop Etiquette
-          description: PS礼仪-WEB设计指南
-          url: http://viggoz.com/photoshopetiquette/
+   
     - name: 视频教程
       sites:
         - name: Photoshop Lady
@@ -706,21 +480,7 @@ content:
           url: http://uxren.cn/
     - name: UED团队
       sites:
-        - name: Airbnb Design
-          description: Airbnb Design
-          url: https://airbnb.design
-        - name: Facebook Design
-          description: Facebook Design
-          url: http://facebook.design/
-        - name: Google Design
-          description: Google Design
-          url: https://design.google/
-        - name: eico design
-          description: 数字化咨询与产品专家
-          url: http://eicodesign.com/
-        - name: nice design
-          description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-          url: http://www.niceui.cn/
+        
         - name: 腾讯CDC
           description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
           url: http://cdc.tencent.com/
