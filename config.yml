@@ -393,7 +393,6 @@ content:
           url: http://uxren.cn/
     - name: UED团队
       sites:
-        
         - name: 腾讯CDC
           description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
           url: http://cdc.tencent.com/
