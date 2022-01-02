@@ -113,28 +113,7 @@ content:
         - name: 豆瓣
           description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
           url: https://www.douban.com/
-    - name: 界面灵感
-      sites: 
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-    - name: 发现产品
-      sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts/
-        - name: 少数派
-          description: 高品质数字消费指南
-          url: https://sspai.com/
-        - name: 小众软件
-          description: 在这里发现更多有趣的应用
-          url: https://faxian.appinn.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
+   
     - name: 图标素材
       sites:
         - name: Iconfinder
@@ -188,53 +167,35 @@ content:
         - name: 素材中国
           description: 免费素材共享平台
           url: http://www.sccnn.com/
-        
-   
-    - name: Sketch资源
-      sites:
-        - name: Sketch.im
-          description: Sketch 相关资源汇聚
-          url: http://www.sketch.im/
-        - name: Sketch Hunt
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins & design tools for fans of Sketch app.
-          url: http://sketchhunt.com/
-        - name: Sketch中文网
-          description: 分享最新的Sketch中文手册
-          url: http://www.sketchcn.com/
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
     - name: 字体资源
       sites:
-        - name: Google Font
-          description: Making the web more beautiful, fast, and open through great typography
-          url: https://fonts.google.com/
-        - name: Typekit
-          description: Quality fonts from the world’s best foundries.
-          url: https://typekit.com/
+       - name: 猫啃网
+          description: 猫啃网致力于为广大设计师提供最新最全且免费的，可商用，无版权问题的免费字体下载。
+          url: https://www.maoken.com/
+        - name: 字体仓库
+          description: 最全的免费商用字体库
+          url: https://www.ziticangku.com/
+        - name: 字体之家
+          description: 字体之家提供最全的免费手机字体和手机软件下载,包括各种字体打包下载,中文字体,英文字体,ps字体,艺术字体,手机软件，字体工具等,专注于为网民提供字体下载服务
+          url: http://www.17ziti.com/
+        - name: 字魂网
+          description: 字魂网是一家提供商用字体下载授权,字体定制,免费字体下载,字体授权,以及在线字体转换器的字体公司，致力于让所有人用得起正版字体.
+          url: https://izihun.com/
+        - name: 站长字体
+          description: 字体库提供,中文字体下载,英文字体下载,书法字体下载,繁体字体下载,艺术字体下载,广告字体下载,方正字体下载,草书字体下载,毛笔字体下载,字体设计下载,书法字体下载,字体库,等字体免费下载
+          url: https://font.chinaz.com/
+        - name: 找字网
+          description: 提供中英文免费字体下载、手写字体下载、书法字体下载、艺术字体下载、手机字体下载预览服务！字体商用在线全自动授权！老牌专业字体市场、字体网站。
+          url: http://www.zhaozi.cn/
+        - name: 字由
+          description: 字由是为设计师量身定做的一款字体下载管理工具。这里收集了国内外上千款精选字体，不仅让你轻松、自由和高效的使用字体，还为你展示了每款字体的详细信息和精选的字体文章。
+          url: https://www.hellofont.cn/
         - name: 方正字库
           description: 方正字库官方网站
           url: http://www.foundertype.com/
         - name: 字体传奇网
           description: 中国首个字体品牌设计师交流网
           url: http://ziticq.com/
-        - name: Fontsquirrel
-          description: FREE fonts for graphic designers
-          url: https://www.fontsquirrel.com/
-        - name: Urban Fonts
-          description: Download Free Fonts and Free Dingbats.
-          url: https://www.urbanfonts.com/
-        - name: Lost Type
-          description: Lost Type is a Collaborative Digital Type Foundry
-          url: http://www.losttype.com/
-        - name: FONTS2U
-          description: Download free fonts for Windows and Macintosh.
-          url: https://fonts2u.com/
-        - name: Fontex
-          description: Free Fonts to Download + Premium Typefaces
-          url: http://www.fontex.org/
-
-        
   
     - name: 摄影图库
       sites:
@@ -273,35 +234,24 @@ content:
         - name: 5百丁
           description: 中国领先的PPT模板共享平台
           url: http://ppt.500d.me/
-    - name: 图形创意
-      sites:
-        - name: photoshop
-          description: Photoshop不需要解释
-          url: https://www.adobe.com/cn/products/photoshop.html
-        - name: Affinity Designer
-          description: 专业创意软件
-          url: https://affinity.serif.com/
-        - name: Illustrator
-          description: 矢量图形和插图。
-          url: https://www.adobe.com/cn/products/illustrator/
-        - name: indesign
-          description: 页面设计、布局和出版。
-          url: http://www.adobe.com/cn/products/indesign.html
        
-    - name: 界面设计
-      sites:
-        - name: Adobe XD
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-          url: http://www.adobe.com/products/xd.html
-       
-        - name: Muse CC
-          description: 无需利用编码即可进行网站设计。
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-        - name: figma
-          description: Design, prototype, and gather feedback all in one place with Figma.
-          url: https://www.figma.com/
     - name: 在线配色
       sites:
+        - name: 炫酷配色
+          description: 设计师配色神器
+          url: https://www.coocolors.com/
+        - name: SDC优设网配色工具
+          description: 优设网帮助您完成配色方案，不用配色软件轻松配色。是网页配色、设计师配色的实用网页配色工具。
+          url: https://color.uisdc.com/
+        - name: HTML拾色器
+          description: HTML拾色器
+          url: https://www.runoob.com/tags/html-colorpicker.html
+        - name: 中国传统颜色
+          description: 中国传统颜色
+          url: http://zhongguose.com/
+        - name: 颜色表大全
+          description: 颜色表大全
+          url: https://www.5tu.cn/colors/yansebiao.html
         - name: trianglify
           description: Trianglify Generator
           url: http://qrohlf.com/trianglify-generator/
@@ -313,34 +263,38 @@ content:
           url: http://www.vanschneider.com/colors
     - name: 在线工具
       sites:
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
-        - name: svgomg
-          description: SVG在线压缩平台
-          url: https://jakearchibald.github.io/svgomg/
-        - name: 稿定抠图
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-          url: https://www.gaoding.com
-    - name: 视频教程
+        - name: 在线工具
+          description: 程序员的工具箱，代码格式化、压缩、加密、解密等
+          url: https://tool.lu/
+        - name: 一个工具箱
+          description: 一个工具箱网站致力于为您打造一个好用便捷的在线工具箱，无需注册和下载安装即可免费使用各种在线工具，涉及加密解密、文字编辑、编程开发、单位换算、日期时间、图形图像、金融服务、日常生活、查询服务等诸多种类的在线工具。
+          url: http://www.atoolbox.net/
+        - name: MikuTools
+          description: 一个轻量的工具集合
+          url: https://tools.miku.ac/
+    - name: 在线课程
       sites:
-        - name: Photoshop Lady
-          description: Your Favourite Photoshop Tutorials in One Place
-          url: http://www.photoshoplady.com/
-        - name: doyoudo
-          description: 创意设计软件学习平台
-          url: http://doyoudo.com/
-        - name: 没位道
-          description: WEB UI免费视频公开课
-          url: http://www.c945.com/web-ui-tutorial/
-        - name: 慕课网
-          description: 程序员的梦工厂（有UI课程）
-          url: https://www.imooc.com/
-    - name: 设计文章
-      sites:
-        - name: Web Design Ledger
-          description: Web Design Blog
-          url: https://webdesignledger.com
+        - name: 我要自学网
+          description: 我要自学网提供免费视频教程,提供全方位软件学习，有3D教程，平面教程，多媒体制作教程，办公信息化教程，机械设计教程，网站制作教程,电脑培训
+          url: https://www.51zxw.net/
+        - name: 大学资源网
+          description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台，通过这个平台每个人都有平等提高自己能力的机会，主要学习资源有：大学课程、中学课程、小学课程、管理课程培训等视频教程！
+          url: http://www.dxzy163.com/
+        - name: w3school
+          description: w3school 在线教程
+          url: https://www.w3school.com.cn/
+        - name: 菜鸟教程
+          description: 菜鸟教程提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识
+          url: https://www.runoob.com/
+        - name: 爱课程
+          description: “爱课程”网是教育部、财政部“十二五”期间启动实施的“高等学校本科教学质量与教学改革工程”委托高等教育出版社建设的高等教育课程资源共享平台。旨在利用现代信息技术和网络技术，推动高校的教育教学改革，提高高等教育质量，以公益性为本，构建可持续发展机制，为高校、师生和社会学习者提供优质教育资源共享和个性化教学服务。
+          url: https://www.icourses.cn/home/
+        - name: 中国大学MOOC
+          description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台,由爱课程网携手网易云课堂打造。
+          url: https://www.icourse163.org/
+        - name: 腾讯课堂
+          description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师，下设职业培训、公务员考试、托福雅思、考证考级、英语口语、中小学教育等众多在线学习精品课程，打造老师在线上课教学、学生及时互动学习的课堂。腾讯课堂，学习成就梦想！
+          url: https://ke.qq.com/
     - name: 设计电台
       sites:
         - name: UX Coffee
@@ -352,44 +306,27 @@ content:
         - name: 异能电台
           description: 将全宇宙设计师的故事讲给你听。
           url: https://www.yineng.fm
-    - name: 交互设计
+    - name: 网址导航
       sites:
-        - name: Little Big Details
-          description: Little Big Details is a curated collection of the finer details of design, updated every day.
-          url: http://littlebigdetails.com/
-        - name: UX Ren
-          description: 用户体验人的专业社区
-          url: http://uxren.cn/
-    - name: UED团队
-      sites:
-        - name: 腾讯CDC
-          description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-          url: http://cdc.tencent.com/
-        - name: TGideas
-          description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-          url: http://tgideas.qq.com/
-        - name: ISUX
-          description: 腾讯社交用户体验设计部
-          url: https://isux.tencent.com/
-        - name: MXD
-          description: 腾讯MIG无线互联网事业群设计团队
-          url: http://mxd.tencent.com/
-        - name: Aliued
-          description: 阿里巴巴国际UED团队
-          url: http://www.aliued.com/
-        - name: U一点
-          description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-          url: http://www.aliued.cn/
-        - name: 网易uedc
-          description: 网易用户体验设计中心（User Experience Design Center）
-          url: http://uedc.163.com/
-        - name: 百度用户体验中心
-          description: 百度用户体验中心
-          url: http://ued.baidu.com/
-        - name: 京东设计中心
-          description: 京东设计中心
-          url: http://jdc.jd.com/
-        - name: 百度企业产品用户体验中心
-          description: 百度企业产品用户体验中心
-          url: http://eux.baidu.com/
+        - name: 程序员导航
+          description: CXY521是一个致力于一站式程序员学习工作娱乐导航网站，以让程序员更便捷为使命，始终围绕程序员需求，为程序员提供最新工具导航
+          url: https://www.cxy521.com/
+        - name: 有趣网站之家
+          description: 分享有趣的国内外网站，应用新奇的html5网站
+          url: https://youquhome.com/
+        - name: 24K导航
+          description: 专注全网优质网址、优质资源分享。
+          url: https://www.24kdh.com/
+        - name: 办公网站导航
+          description: 办公人员网址导航，办公人员网站导航，专注分享优秀的办公网站、办公软件、工具、素材、技巧、办公资源
+          url: http://hao.xuewps.com/
+        - name: 阿虚同学的储物间
+          description: 实用导航
+          url: https://axutongxue.com/
+        - name: 科塔学术导航
+          description: 提供科研网站导航，网址库等服务
+          url: https://site.sciping.com/
+        - name: 爱学术导航
+          description: 爱学术导航是科研学术信噪比最高的导航站，致力于成为国内领先的科研与学术资源导航平台，为科研人员提供科研网站导航，网址库等服务，让科研工作更简单、更有效率。
+          url: https://www.ixsdh.com/
  
