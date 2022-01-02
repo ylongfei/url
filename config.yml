@@ -72,30 +72,30 @@ content:
            url: https://mail.qq.com/
          - name: 腾讯企业邮箱
            description: 专业、安全的企业微信邮箱服务。
-           url: https://exmail.qq.com/login
-     - name: 网盘   
+           url: https://exmail.qq.com/login/
+     - name: 网络云盘   
         sites:
            - name: 阿里云盘
              description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。
              url: https://www.aliyundrive.com/
           - name: 超星云盘
             description: 不限速，免费空间100G，客户端上传单文件上限15G
-            url: https://passport2.chaoxing.com/login?fid=&refer=
+            url: https://passport2.chaoxing.com/login?fid=&refer=/
           - name: 腾讯微云
             description: 微云是腾讯公司为用户精心打造的一项智能云服务, 您可以通过微云方便地在手机和电脑之间同步文件、推送照片和传输数据。
             url: https://www.weiyun.com/
           - name: 天翼云盘
             description: 天翼云盘是中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务，是国内领先的免费网盘，安全、可靠、稳定、快速。
-            url: https://cloud.189.cn/web/login.html
+            url: https://cloud.189.cn/web/login.html/
           - name: 百度网盘
             description: 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。现在注册即有机会享受15G的免费存储空间
-            url: https://pan.baidu.com
+            url: https://pan.baidu.com/
          - name: 115网盘
            description: 115社区，你的网上家园。
-           url: https://115.com
+           url: https://115.com/
          - name: 永硕E盘
            description: 数据存储、交流平台,可以保存您的文件、网址、记事等。
-           url: http://www.ys168.com
+           url: http://www.ys168.com/
       - name: 社区资讯  
         sites:
           - name: IT之家
@@ -112,7 +112,7 @@ content:
            url: https://github.com/		
          - name: 知乎
            description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。
-           url: https://www.zhihu.com/explore#daily-hot
+           url: https://www.zhihu.com/explore#daily-hot/
          - name: 豆瓣
            description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
            url: https://www.douban.com/
@@ -139,7 +139,7 @@ content:
       sites:
         - name: NEXT
           description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
+          url: http://next.36kr.com/posts/
         - name: 少数派
           description: 高品质数字消费指南
           url: https://sspai.com/
