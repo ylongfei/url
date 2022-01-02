@@ -169,7 +169,7 @@ content:
           url: http://www.sccnn.com/
     - name: 字体资源
       sites:
-       - name: 猫啃网
+        - name: 猫啃网
           description: 猫啃网致力于为广大设计师提供最新最全且免费的，可商用，无版权问题的免费字体下载。
           url: https://www.maoken.com/
         - name: 字体仓库
