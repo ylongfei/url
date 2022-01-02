@@ -8,13 +8,13 @@ description: ylongfei's navigation site
 favicon: "https://github.com/ylongfei.png?size=40"
 
 # your website url
-url: https://ylongfei.github.io/url/index.html/
+url: https://ylongfei.github.io/url.github.io/
 
 # github profile url
 github: "https://github.com/ylongfei"
 
 # footer message
-footer: © 2019-2021 @longfei
+footer: © 2019-2022 @longfei
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -98,7 +98,7 @@ content:
            url: http://www.ys168.com
       - name: 社区资讯  
         sites:
-        - name: IT之家
+          - name: IT之家
            description: IT之家，青岛软媒旗下，IT科技门户网站。快速精选IT新闻，实时报道科技周边，关注苹果iOS、谷歌Android、微软Windows Phone，紧盯iPhone/iPad、安卓智能设备、WP手机等数码潮流。技术资讯、攻略教程、资源下载 - IT人的生活，尽在IT之家，爱IT，爱这里。												
            url: https://www.ithome.com/					
          - name: IT天空
@@ -423,5 +423,4 @@ content:
         - name: 百度企业产品用户体验中心
           description: 百度企业产品用户体验中心
           url: http://eux.baidu.com/
-        - name: 
-          url: 
+ 
