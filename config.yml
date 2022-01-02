@@ -58,80 +58,69 @@ content:
               
     - name: 电子邮箱
       sites:
-         - name: 126邮箱
-           description: 网易126免费邮箱--你的专业电子邮局。20年邮箱运营经验，系统快速稳定，垃圾邮件拦截率超过98%，邮箱容量自动翻倍，支持高达3G超大附件，提供免费网盘及手机号码邮箱服务。
-           url: https://mail.126.com/
-         - name: 163邮箱
-           description: 网易163免费邮箱--中文邮箱第一品牌。容量自动翻倍，支持50兆附件,免费开通手机号码邮箱赠送3G超大附件服务。支持各种客户端软件收发，垃圾邮件拦截率超过98%。
-           url: https://mail.163.com/
-         - name: 新浪邮箱
-           description: 新浪邮箱，提供以@sina.com和@sina.cn为后缀的免费邮箱。2G超大附件和50M普通附件，容量5G至无限大，整合新浪微博应用，支持客户端收发，更加安全，更少垃圾邮件。
-           url: https://mail.sina.com.cn/
-         - name: QQ邮箱
-           description: QQ邮箱是腾讯公司2002年推出，向用户提供安全、稳定、快速、便捷电子邮件服务的邮箱产品，已为超过1亿的邮箱用户提供免费和增值邮箱服务。
-           url: https://mail.qq.com/
-     - name: 网络云盘   
-        sites:
-           - name: 阿里云盘
-             description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。
-             url: https://www.aliyundrive.com/
-          - name: 超星云盘
-            description: 不限速，免费空间100G，客户端上传单文件上限15G
-            url: https://passport2.chaoxing.com/login?fid=&refer=/
-          - name: 腾讯微云
-            description: 微云是腾讯公司为用户精心打造的一项智能云服务, 您可以通过微云方便地在手机和电脑之间同步文件、推送照片和传输数据。
-            url: https://www.weiyun.com/
-          - name: 天翼云盘
-            description: 天翼云盘是中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务，是国内领先的免费网盘，安全、可靠、稳定、快速。
-            url: https://cloud.189.cn/web/login.html/
-          - name: 百度网盘
-            description: 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。现在注册即有机会享受15G的免费存储空间
-            url: https://pan.baidu.com/
-         - name: 115网盘
-           description: 115社区，你的网上家园。
-           url: https://115.com/
-         - name: 永硕E盘
-           description: 数据存储、交流平台,可以保存您的文件、网址、记事等。
-           url: http://www.ys168.com/
-      - name: 社区资讯  
-        sites:
-          - name: IT之家
-           description: IT之家，青岛软媒旗下，IT科技门户网站。快速精选IT新闻，实时报道科技周边，关注苹果iOS、谷歌Android、微软Windows Phone，紧盯iPhone/iPad、安卓智能设备、WP手机等数码潮流。技术资讯、攻略教程、资源下载 - IT人的生活，尽在IT之家，爱IT，爱这里。												
-           url: https://www.ithome.com/					
-         - name: IT天空
-           description: 以系统封装技术与驱动技术为主的综合性IT站点,提供完善的系统批量部署解决方案、易用的离线万能驱动和适合装机技术员的U盘PE。
-           url: https://www.itsk.com/
-         - name: Gitee
-           description: Gitee.com(码云) 是 OSCHINA.NET 推出的代码托管平台,支持 Git 和 SVN,提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。
-           url: https://gitee.com/
-         - name: GitHub
-           description: GitHub brings together the world’s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we’re your all-in-one platform for collaborative development.
-           url: https://github.com/		
-         - name: 知乎
-           description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。
-           url: https://www.zhihu.com/explore#daily-hot/
-         - name: 豆瓣
-           description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
-           url: https://www.douban.com/
-          
-           
-           
-           
-           
-
-      
-      
-    - name: 界面灵感
+        - name: 126邮箱
+          description: 网易126免费邮箱--你的专业电子邮局。20年邮箱运营经验，系统快速稳定，垃圾邮件拦截率超过98%，邮箱容量自动翻倍，支持高达3G超大附件，提供免费网盘及手机号码邮箱服务。
+          url: https://mail.126.com/
+        - name: 163邮箱
+          description: 网易163免费邮箱--中文邮箱第一品牌。容量自动翻倍，支持50兆附件,免费开通手机号码邮箱赠送3G超大附件服务。支持各种客户端软件收发，垃圾邮件拦截率超过98%。
+          url: https://mail.163.com/
+        - name: 新浪邮箱
+          description: 新浪邮箱，提供以@sina.com和@sina.cn为后缀的免费邮箱。2G超大附件和50M普通附件，容量5G至无限大，整合新浪微博应用，支持客户端收发，更加安全，更少垃圾邮件。
+          url: https://mail.sina.com.cn/
+        - name: QQ邮箱
+          description: QQ邮箱是腾讯公司2002年推出，向用户提供安全、稳定、快速、便捷电子邮件服务的邮箱产品，已为超过1亿的邮箱用户提供免费和增值邮箱服务。
+          url: https://mail.qq.com/
+    - name: 网络云盘   
       sites:
-        
+        - name: 阿里云盘
+          description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。
+          url: https://www.aliyundrive.com/
+        - name: 超星云盘
+          description: 不限速，免费空间100G，客户端上传单文件上限15G
+          url: https://passport2.chaoxing.com/login?fid=&refer=/
+        - name: 腾讯微云
+          description: 微云是腾讯公司为用户精心打造的一项智能云服务, 您可以通过微云方便地在手机和电脑之间同步文件、推送照片和传输数据。
+          url: https://www.weiyun.com/
+        - name: 天翼云盘
+          description: 天翼云盘是中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务，是国内领先的免费网盘，安全、可靠、稳定、快速。
+          url: https://cloud.189.cn/web/login.html/
+        - name: 百度网盘
+          description: 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。现在注册即有机会享受15G的免费存储空间
+          url: https://pan.baidu.com/
+        - name: 115网盘
+          description: 115社区，你的网上家园。
+          url: https://115.com/
+        - name: 永硕E盘
+          description: 数据存储、交流平台,可以保存您的文件、网址、记事等。
+          url: http://www.ys168.com/
+    - name: 社区资讯  
+      sites:
+        - name: IT之家
+          description: IT之家，青岛软媒旗下，IT科技门户网站。快速精选IT新闻，实时报道科技周边，关注苹果iOS、谷歌Android、微软Windows Phone，紧盯iPhone/iPad、安卓智能设备、WP手机等数码潮流。技术资讯、攻略教程、资源下载 - IT人的生活，尽在IT之家，爱IT，爱这里。												
+          url: https://www.ithome.com/					
+        - name: IT天空
+          description: 以系统封装技术与驱动技术为主的综合性IT站点,提供完善的系统批量部署解决方案、易用的离线万能驱动和适合装机技术员的U盘PE。
+          url: https://www.itsk.com/
+        - name: Gitee
+          description: Gitee.com(码云) 是 OSCHINA.NET 推出的代码托管平台,支持 Git 和 SVN,提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。
+          url: https://gitee.com/
+        - name: GitHub
+          description: GitHub brings together the world’s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we’re your all-in-one platform for collaborative development.
+          url: https://github.com/		
+        - name: 知乎
+          description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。
+          url: https://www.zhihu.com/explore#daily-hot/
+        - name: 豆瓣
+          description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
+          url: https://www.douban.com/
+    - name: 界面灵感
+      sites: 
         - name: 咕噜素材
           description: 质量很高的设计素材网站（推荐）
           url: https://www.gulusucai.com/
         - name: 字体仓库
           description: 最全的免费商用字体库
           url: https://www.ziticangku.com/
-        
-   
     - name: 发现产品
       sites:
         - name: NEXT
@@ -143,12 +132,9 @@ content:
         - name: 小众软件
           description: 在这里发现更多有趣的应用
           url: https://faxian.appinn.com/
-       
         - name: UI uigreat
           description: APP界面截图参考
           url: http://ui.uigreat.com/
-      
-   
     - name: 图标素材
       sites:
         - name: Iconfinder
@@ -169,7 +155,6 @@ content:
     
     - name: 平面素材
       sites:
-        
         - name: 365PSD
           description: Free PSD & Graphics, Illustrations
           url: https://365psd.com/
@@ -207,7 +192,6 @@ content:
    
     - name: Sketch资源
       sites:
-       
         - name: Sketch.im
           description: Sketch 相关资源汇聚
           url: http://www.sketch.im/
@@ -217,7 +201,6 @@ content:
         - name: Sketch中文网
           description: 分享最新的Sketch中文手册
           url: http://www.sketchcn.com/
-       
         - name: Sketch
           description: The digital design toolkit
           url: https://sketchapp.com/
@@ -258,23 +241,18 @@ content:
         - name: Unsplash
           description: Beautiful, free photos.
           url: https://unsplash.com/
-       
         - name: librestock
           description: 65,084 high quality do-what-ever-you-want stock photos
           url: https://librestock.com/
         - name: pixabay
           description: 可在任何地方使用的免费图片和视频
           url: https://pixabay.com/
-      
         - name: papers
           description: Wallpapers Every Hour!Hand collected :)
           url: http://papers.co/
-     
-            
         - name: jeshoots
           description: New Free Photos & Mockups in to your Inbox!
           url: http://jeshoots.com/
-       
         - name: publicdomainarchive
           description: New 100% Free Stock Photos. Every. Single. Week.
           url: http://publicdomainarchive.com/
@@ -292,7 +270,6 @@ content:
         - name: PPTMind
           description: 分享高端ppt模板与keynote模板的数字作品交易平台
           url: http://www.pptmind.com/
-       
         - name: 5百丁
           description: 中国领先的PPT模板共享平台
           url: http://ppt.500d.me/
@@ -323,10 +300,8 @@ content:
         - name: figma
           description: Design, prototype, and gather feedback all in one place with Figma.
           url: https://www.figma.com/
-
     - name: 在线配色
       sites:
-        
         - name: trianglify
           description: Trianglify Generator
           url: http://qrohlf.com/trianglify-generator/
@@ -341,14 +316,12 @@ content:
         - name: tinypng
           description: Optimize your images with a perfect balance in quality and file size.
           url: https://tinypng.com/
-       
         - name: svgomg
           description: SVG在线压缩平台
           url: https://jakearchibald.github.io/svgomg/
         - name: 稿定抠图
           description: 免费在线抠图软件,图片快速换背景-抠白底图
           url: https://www.gaoding.com
-   
     - name: 视频教程
       sites:
         - name: Photoshop Lady
@@ -384,7 +357,6 @@ content:
         - name: Little Big Details
           description: Little Big Details is a curated collection of the finer details of design, updated every day.
           url: http://littlebigdetails.com/
-       
         - name: UX Ren
           description: 用户体验人的专业社区
           url: http://uxren.cn/
