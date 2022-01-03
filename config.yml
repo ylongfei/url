@@ -140,25 +140,25 @@ content:
           description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师，下设职业培训、公务员考试、托福雅思、考证考级、英语口语、中小学教育等众多在线学习精品课程，打造老师在线上课教学、学生及时互动学习的课堂。腾讯课堂，学习成就梦想！
           url: https://ke.qq.com/
    - name: 社区资讯  
-      sites:
-        - name: IT之家
-          description: IT之家，青岛软媒旗下，IT科技门户网站。快速精选IT新闻，实时报道科技周边，关注苹果iOS、谷歌Android、微软Windows Phone，紧盯iPhone/iPad、安卓智能设备、WP手机等数码潮流。技术资讯、攻略教程、资源下载 - IT人的生活，尽在IT之家，爱IT，爱这里。												
-          url: https://www.ithome.com/					
-        - name: IT天空
-          description: 以系统封装技术与驱动技术为主的综合性IT站点,提供完善的系统批量部署解决方案、易用的离线万能驱动和适合装机技术员的U盘PE。
-          url: https://www.itsk.com/
-        - name: Gitee
-          description: Gitee.com(码云) 是 OSCHINA.NET 推出的代码托管平台,支持 Git 和 SVN,提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。
-          url: https://gitee.com/
-        - name: GitHub
-          description: GitHub brings together the world’s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we’re your all-in-one platform for collaborative development.
-          url: https://github.com/		
-        - name: 知乎
-          description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。
-          url: https://www.zhihu.com/explore#daily-hot/
-        - name: 豆瓣
-          description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
-          url: https://www.douban.com/
+     sites:
+       - name: IT之家
+         description: IT之家，青岛软媒旗下，IT科技门户网站。快速精选IT新闻，实时报道科技周边，关注苹果iOS、谷歌Android、微软Windows Phone，紧盯iPhone/iPad、安卓智能设备、WP手机等数码潮流。技术资讯、攻略教程、资源下载 - IT人的生活，尽在IT之家，爱IT，爱这里。												
+         url: https://www.ithome.com/					
+       - name: IT天空
+         description: 以系统封装技术与驱动技术为主的综合性IT站点,提供完善的系统批量部署解决方案、易用的离线万能驱动和适合装机技术员的U盘PE。
+         url: https://www.itsk.com/
+       - name: Gitee
+         description: Gitee.com(码云) 是 OSCHINA.NET 推出的代码托管平台,支持 Git 和 SVN,提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。
+         url: https://gitee.com/
+       - name: GitHub
+         description: GitHub brings together the world’s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we’re your all-in-one platform for collaborative development.
+         url: https://github.com/		
+       - name: 知乎
+         description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。
+         url: https://www.zhihu.com/explore#daily-hot/
+       - name: 豆瓣
+         description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
+         url: https://www.douban.com/
    
     
     - name: 平面素材
