@@ -111,10 +111,7 @@ content:
         - name: 腾讯文档
           description: 腾讯文档是一款可多人协作的在线文档，可同时编辑Word、Excel和PPT文档，云端实时保存。可针对QQ、微信好友设置文档访问、编辑权限，支持多种版本Word、Excel和PPT文
           url: https://docs.qq.com/
-        - name: 金山文档
-          description: 金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。
-          url: https://www.kdocs.cn/welcome/
-          
+
           
     - name: 在线课程
       sites:
