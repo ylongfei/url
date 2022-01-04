@@ -73,6 +73,9 @@ content:
         - name: 腾讯企业邮箱
           description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱。
           url: https://exmail.qq.com/login/
+        - name: 临时邮箱
+          description: 临时邮箱、24小时邮箱
+          url: http://24mail.chacuo.net/
           
     - name: 网络云盘   
       sites:
@@ -91,6 +94,9 @@ content:
         - name: 百度网盘
           description: 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。现在注册即有机会享受15G的免费存储空间
           url: https://pan.baidu.com/
+        - name: 文叔叔
+          description: 传文件，找文叔叔（永不限速）
+          url: https://www.wenshushu.cn/
         - name: 115网盘
           description: 115社区，你的网上家园。
           url: https://115.com/
@@ -108,9 +114,21 @@ content:
         - name: MikuTools
           description: 一个轻量的工具集合
           url: https://tools.miku.ac/
+        - name: 有道云笔记
+          description: 专注办公提效的笔记软件
+          url: https://note.youdao.com/
         - name: 腾讯文档
           description: 腾讯文档是一款可多人协作的在线文档，可同时编辑Word、Excel和PPT文档，云端实时保存。可针对QQ、微信好友设置文档访问、编辑权限，支持多种版本Word、Excel和PPT文
           url: https://docs.qq.com/
+        - name: 金山文档
+          description: 可多人实时协作编辑的在线文档
+          url: https://www.kdocs.cn/
+        - name: 金山表单
+          description: 金山表单是免费的在线表单
+          url: https://f.wps.cn/home
+        - name: 问卷星
+          description: 问卷调查,调查问卷,在线考试
+          url: https://www.wjx.cn/
     - name: 在线课程
       sites:
         - name: 我要自学网
@@ -156,35 +174,43 @@ content:
           url: https://www.douban.com/
    
     
-    - name: 平面素材
+    - name: 艺术展馆
       sites:
-        - name: 千图网
-          description: 专注免费设计素材下载的网站
-          url: http://www.58pic.com/
-        - name: 千库网
-          description: 免费png图片背景素材下载
-          url: http://588ku.com/
-        - name: 我图网
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-          url: http://www.ooopic.com/
-        - name: 90设计
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-          url: http://90sheji.com/
-        - name: 昵图网
-          description: 原创素材共享平台
-          url: http://www.nipic.com/
-        - name: 懒人图库
-          description: 懒人图库专注于提供网页素材下载
-          url: http://www.lanrentuku.com/
-        - name: 素材搜索
-          description: 设计素材搜索聚合
-          url: http://so.ui001.com/
-        - name: PS饭团网
-          description: 不一样的设计素材库！让自己的设计与众不同！
-          url: http://psefan.com/
-        - name: 素材中国
-          description: 免费素材共享平台
-          url: http://www.sccnn.com/
+        - name: 故宫壁纸
+          description: 故宫壁纸-故宫博物院
+          url: https://www.dpm.org.cn/lights/royal.html
+        - name: 辞海
+          description: 辞海官方网站-权威、可信的知识检索平台
+          url: https://www.cihai.com.cn/index
+        - name: 中华珍宝馆
+          description: 中华珍宝馆,书法欣赏,高清书法图片下载,绘画欣赏,高清绘画图片下载
+          url: http://g2.ltfc.net/home
+        - name: 故宫博物院
+          description: 北京故宫博物院建立于1925年10月10日，位于北京故宫紫禁城内。是在明朝、清朝两代皇宫及其收藏的基础上建立起来的中国综合性博物馆，也是中国最大的古代文化艺术博物馆，其文物收藏主要来源于清代宫中旧藏，是第一批全国爱国主义教育示范基地。
+          url: https://www.dpm.org.cn/Home.html
+        - name: 中国美术馆
+          description: 中国美术馆
+          url: http://www.namoc.org/
+        - name: Gallerix
+          description: RuNet最大和最受欢迎的关于绘画的专题网站。 超过4万名艺术家，从我们同时代的人到已经熟知的老主人。 来自私人收藏和世界上最好的博物馆的50多万幅画作。
+          url: https://gallerix.asia/
+    - name: Chrome扩展
+      sites: 
+        - name: Chrome插件
+          description: 使用Chrome插件可以为Chrome浏览器带来一些功能性的扩展，进而提高Chrome的使用体验。
+          url: https://huajiakeji.com/
+        - name: Crx4Chrome插件下载
+          description: 想要安装Chrome插件的方式有许多，用户可以直接在Chrome商店中下载和安装谷歌浏览器插件，如果你需要离线安装crx推荐使用crx4.com进行离线安装
+          url: http://www.crx4.com/
+        - name: Chrome/谷歌浏览器插件
+          description: 分享好用靠谱的，Chrome/谷歌浏览器插件
+          url: https://www.chrome666.com/
+        - name: 扩展迷
+          description: 扩展迷-专业的Chrome插件网,提供Chrome商店/谷歌应用商店里各类Chrome插件下载服务,拥有最好用的谷歌浏览器插件,最全面的Chrome插件资源,使用Chrome插件可以为谷歌浏览器带来功能性的扩展
+          url: https://www.extfans.com/    
+        - name: Greasy Fork
+          description: Greasy Fork - 安全、实用的用户脚本大全
+          url: https://greasyfork.org/zh-CN/scripts/
     - name: 字体资源
       sites:
         - name: 猫啃网
