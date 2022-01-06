@@ -85,6 +85,9 @@ content:
         - name: 腾讯企业邮箱
           description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱。
           url: https://exmail.qq.com/login/
+        - name: Outlook
+          description: 来自Microsoft的免费个人电子邮件和日历
+          url: https://outlook.live.com/
         - name: 临时邮箱
           description: 临时邮箱、24小时邮箱
           url: http://24mail.chacuo.net/
@@ -178,15 +181,15 @@ content:
         - name: 阿里云盘
           description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘。
           url: https://www.aliyundrive.com/
-        - name: 超星云盘
-          description: 不限速，免费空间100G，客户端上传单文件上限15G
-          url: https://passport2.chaoxing.com/login?fid=&refer=/
-        - name: 腾讯微云
-          description: 微云是腾讯公司为用户精心打造的一项智能云服务。
-          url: https://www.weiyun.com/
         - name: 天翼云盘
           description: 天翼云盘是中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务。
           url: https://cloud.189.cn/web/login.html/
+        - name: 腾讯微云
+          description: 微云是腾讯公司为用户精心打造的一项智能云服务。
+          url: https://www.weiyun.com/
+       - name: 超星云盘
+          description: 不限速，免费空间100G，客户端上传单文件上限15G
+          url: https://passport2.chaoxing.com/login?fid=&refer=/ 
         - name: 百度网盘
           description: 百度网盘为您提供文件的网络备份、同步和分享服务。
           url: https://pan.baidu.com/
@@ -198,8 +201,7 @@ content:
           url: https://115.com/
         - name: 永硕E盘
           description: 数据存储、交流平台,可以保存您的文件、网址、记事等。
-          url: http://www.ys168.com/
-    
+          url: http://www.ys168.com/   
    
     - name: 软件工具
       sites:
@@ -308,8 +310,6 @@ content:
         - name: 字体传奇网
           description: 中国首个字体品牌设计师交流网
           url: http://ziticq.com/
-       
-    
         
    
     - name: 网址导航
