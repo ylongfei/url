@@ -187,7 +187,7 @@ content:
         - name: 腾讯微云
           description: 微云是腾讯公司为用户精心打造的一项智能云服务。
           url: https://www.weiyun.com/
-       - name: 超星云盘
+        - name: 超星云盘
           description: 不限速，免费空间100G，客户端上传单文件上限15G
           url: https://passport2.chaoxing.com/login?fid=&refer=/ 
         - name: 百度网盘
