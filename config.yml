@@ -14,7 +14,7 @@ url: https://ylongfei.github.io/web/
 github: "https://github.com/ylongfei"
 
 # footer message
-footer: Information © 2019-2022 Website by cc
+footer: Information © 2019-2022 Website by longf
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -55,6 +55,15 @@ content:
         - name: 央视网
           description: 央视网是中央广播电视总台主办的中央重点新闻网站，是拥有全牌照业务资质的大型互联网文化企业。
           url: https://tv.cctv.com/
+        - name: 央视纪实
+          description: 纪实台汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等各具特色的高清正版纪录片资源，是国内纪录片资源最为丰富的视频播放频道。
+          url: http://jishi.cctv.com/
+        - name: 爱奇艺免费看
+          description: 爱奇艺免费专区
+          url: https://www.iqiyi.com/kszt/freefilm.html
+        - name: 片库-PiANKU
+          description: 片库
+          url: https://www.pianku.li/
               
     - name: 电子邮箱
       sites:
@@ -70,6 +79,9 @@ content:
         - name: QQ邮箱
           description: QQ邮箱是腾讯公司2002年推出，向用户提供安全、稳定、快速、便捷电子邮件服务的邮箱产品，已为超过1亿的邮箱用户提供免费和增值邮箱服务。
           url: https://mail.qq.com/
+        - name: 139邮箱
+          description: 139邮箱是中国移动提供的电子邮件业务，以手机号@139.com作为邮箱地址，来邮短信及时提醒,同时提供
+          url: https://mail.10086.cn/
         - name: 腾讯企业邮箱
           description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱。
           url: https://exmail.qq.com/login/
@@ -114,6 +126,12 @@ content:
         - name: MikuTools
           description: 一个轻量的工具集合
           url: https://tools.miku.ac/
+        - name: 精准云
+          description: 在线工具大全
+          url: https://jingzhunyun.com/
+        - name:  蛙蛙工具
+          description:  便捷的在线工具网站
+          url: https://www.iamwawa.cn/
         - name: 有道云笔记
           description: 专注办公提效的笔记软件
           url: https://note.youdao.com/
@@ -149,6 +167,12 @@ content:
         - name: 中国大学MOOC
           description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台,由爱课程网携手网易云课堂打造。
           url: https://www.icourse163.org/
+        - name: 北京大学公开课
+          description: 北京大学公开课
+          url: http://opencourse.pku.edu.cn/course/opencourse2/index.html
+        - name: 网易公开课
+          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析
+          url:  https://open.163.com/
         - name: 腾讯课堂
           description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师，下设职业培训、公务员考试、托福雅思、考证考级、英语口语、中小学教育等众多在线学习精品课程，打造老师在线上课教学、学生及时互动学习的课堂。腾讯课堂，学习成就梦想！
           url:  https://ke.qq.com/  
@@ -165,7 +189,13 @@ content:
           url: https://gitee.com/
         - name: GitHub
           description: GitHub brings together the world’s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we’re your all-in-one platform for collaborative development.
-          url: https://github.com/		
+          url: https://github.com/
+        - name: 微博
+          description: 随时随地发现新鲜事！微博带你欣赏世界上每一个精彩瞬间，了解每一个幕后故事。
+          url: https://weibo.com/
+        - name: 百度贴吧
+          description: 全球最大的中文社区。贴吧的使命是让志同道合的人相聚。
+          url: https://tieba.baidu.com/
         - name: 知乎
           description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。
           url: https://www.zhihu.com/explore#daily-hot/
@@ -173,7 +203,29 @@ content:
           description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
           url: https://www.douban.com/
    
-    
+    - name: 软件工具
+      sites:
+        - name: MSND
+          description: 一个原版软件信息收录站点，该网站创办十年仍是非常简洁的风格，没有广告
+          url: https://msdn.itellyou.cn/
+        - name: 微当下载
+          description: 微当下载是一个免费的软件下载站，以官方软件、绿色软件、浏览器、手机软件等软件为主
+          url: https://www.weidown.com/
+        - name: 果核剥壳
+          description: 果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，安卓软件等。
+          url: https://www.ghxi.com/
+        - name: 小鱼儿yr系统
+          description: 小鱼儿yr系统专注于WIN7，WIN10，系统封装，封装系统，重装系统，系统教程
+          url: https://www.yrxitong.com/
+        - name: 小众软件
+          description: 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
+          url: https://www.appinn.com/
+        - name: 大眼仔
+          description: 大眼仔旭博客提供各类PC软件,绿色软件,手机游戏,安卓APP,汉化软件,软件教程
+          url: http://www.dayanzai.me/
+        - name: 正版中国
+          description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯,以此促进国内版权氛围的改进
+          url: https://www.getitfree.cn/
     - name: 艺术展馆
       sites:
         - name: 故宫壁纸
@@ -194,7 +246,7 @@ content:
         - name: Gallerix
           description: RuNet最大和最受欢迎的关于绘画的专题网站。 超过4万名艺术家，从我们同时代的人到已经熟知的老主人。 来自私人收藏和世界上最好的博物馆的50多万幅画作。
           url: https://gallerix.asia/
-    - name: Chrome扩展
+    - name: 网页扩展
       sites: 
         - name: Chrome插件
           description: 使用Chrome插件可以为Chrome浏览器带来一些功能性的扩展，进而提高Chrome的使用体验。
@@ -291,4 +343,16 @@ content:
         - name: 爱学术导航
           description: 爱学术导航是科研学术信噪比最高的导航站，致力于成为国内领先的科研与学术资源导航平台，为科研人员提供科研网站导航，网址库等服务，让科研工作更简单、更有效率。
           url: https://www.ixsdh.com/
+        - name: 考拉新媒体导航
+          description: 考拉新媒体导航，新媒体人的专属门户网站
+          url: https://www.kaolamedia.com/
+        - name: 新媒体导航
+          description: 工具推荐服务，是一个优秀、绿色、安全、好用的新媒体助手
+          url: http://123.meibp.com/
+        - name: 自媒体导航
+          description: 自媒体操作后台/内容排版/作图工具等
+          url: https://dh.hflmwl.com/
+        - name: 大数据导航
+          description: 大数据导航
+          url: http://hao.bigdata.ren/
  
