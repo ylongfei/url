@@ -9,6 +9,6 @@
 从 [gena-template](https://github.com/x1ah/gena-template) 自动生成并自动部署到 GitHub Pages
 
 
-### 网站
+#### 页面
 
 Site address: https://ylfei.github.io/web
