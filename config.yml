@@ -61,9 +61,7 @@ content:
         - name: 爱奇艺免费看
           description: 爱奇艺免费专区
           url: https://www.iqiyi.com/kszt/freefilm.html
-        - name: 片库-PiANKU
-          description: 片库
-          url: https://www.pianku.li/
+        
               
     - name: 电子邮箱
       sites:
