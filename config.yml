@@ -60,9 +60,7 @@ content:
           url: http://jishi.cctv.com/
         - name: 爱奇艺免费看
           description: 爱奇艺免费专区
-          url: https://www.iqiyi.com/kszt/freefilm.html
-        
-              
+          url: https://www.iqiyi.com/kszt/freefilm.html      
     - name: 电子邮箱
       sites:
         - name: 126邮箱
@@ -88,8 +86,7 @@ content:
           url: https://outlook.live.com/
         - name: 临时邮箱
           description: 临时邮箱、24小时邮箱
-          url: http://24mail.chacuo.net/
-          
+          url: http://24mail.chacuo.net/    
     - name: 社区资讯  
       sites:
         - name: IT之家
@@ -200,7 +197,6 @@ content:
         - name: 永硕E盘
           description: 数据存储、交流平台,可以保存您的文件、网址、记事等
           url: http://www.ys168.com/   
-   
     - name: 软件工具
       sites:
         - name: MSND
@@ -257,28 +253,7 @@ content:
           url: http://zhongguose.com/
         - name: 颜色表大全
           description: 颜色表大全
-          url: https://www.5tu.cn/colors/yansebiao.html
-    - name: 艺术展馆
-      sites:
-        - name: 故宫壁纸
-          description: 故宫壁纸-故宫博物院
-          url: https://www.dpm.org.cn/lights/royal.html
-        - name: 辞海
-          description: 辞海官方网站-权威、可信的知识检索平台
-          url: https://www.cihai.com.cn/index
-        - name: 中华珍宝馆
-          description: 中华珍宝馆,书法欣赏,高清书法图片下载,绘画欣赏,高清绘画图片下载
-          url: http://g2.ltfc.net/home
-        - name: 故宫博物院
-          description: 北京故宫博物院建立于1925年10月10日，位于北京故宫紫禁城内。是在明朝、清朝两代皇宫及其收藏的基础上建立起来的中国综合性博物馆
-          url: https://www.dpm.org.cn/Home.html
-        - name: 中国美术馆
-          description: 中国美术馆
-          url: http://www.namoc.org/
-        - name: Gallerix
-          description: RuNet最大和最受欢迎的关于绘画的专题网站。 超过4万名艺术家，从我们同时代的人到已经熟知的老主人
-          url: https://gallerix.asia/
-    
+          url: https://www.5tu.cn/colors/yansebiao.html   
     - name: 字体资源
       sites:
         - name: 猫啃网
@@ -307,8 +282,7 @@ content:
           url: http://www.foundertype.com/
         - name: 字体传奇网
           description: 中国首个字体品牌设计师交流网
-          url: http://ziticq.com/
-        
+          url: http://ziticq.com/     
    
     - name: 网址导航
       sites:
