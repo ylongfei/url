@@ -8,10 +8,10 @@ description: ylongfei's navigation site
 favicon: "https://github.com/ylongfei.png?size=40"
 
 # your website url
-url: https://ylongfei.github.io/web/
+url: https://ylongfei.github.io/web/index.html
 
 # github profile url
-github: "https://github.com/ylongfei"
+github: "https://github.com/ylongfei/web"
 
 # footer message
 footer: Information © 2019-2022 Website by longf
