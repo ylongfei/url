@@ -25,6 +25,6 @@ Usage of ./gena:
     	Config file (default "config.yml")
 ```
 
-# 使用案例
+### 网站
 
 Site address: https://ylfei.github.io/web
