@@ -11,7 +11,7 @@ favicon: "https://github.com/ylfei.png?size=40"
 url: https://ylfei.github.io/web/index.html
 
 # github profile url
-# github: "https://github.com/ylfei/web"
+github: "https://github.com/ylfei/web"
 
 # footer message
 footer: Information © 2019-2022 Website by ylfei
@@ -202,6 +202,9 @@ content:
         - name: MSND
           description: 一个原版软件信息收录站点，该网站创办十年仍是非常简洁的风格，没有广告
           url: https://msdn.itellyou.cn/
+        - name: Office Tool Plus
+          description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
+          url: https://otp.landian.vip/zh-cn/
         - name: 微当下载
           description: 微当下载是一个免费的软件下载站，以官方软件、绿色软件、浏览器、手机软件等软件为主
           url: https://www.weidown.com/
