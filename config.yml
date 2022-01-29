@@ -55,7 +55,6 @@ content:
         - name: 一个工具箱
           description: 一个工具箱网站致力于为您打造一个好用便捷的在线工具箱
           url: http://www.atoolbox.net/
-        
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
@@ -77,9 +76,6 @@ content:
         - name: 新浪邮箱
           description: 新浪邮箱，提供以@sina.com和@sina.cn为后缀的免费邮箱
           url: https://mail.sina.com.cn/
-        - name: 139邮箱
-          description: 139邮箱是中国移动提供的电子邮件业务，以手机号@139.com作为邮箱地址
-          url: https://mail.10086.cn/
         - name: 腾讯企业邮箱
           description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱
           url: https://exmail.qq.com/login/
@@ -112,9 +108,7 @@ content:
         - name: w3school
           description: w3school 在线教程
           url: https://www.w3school.com.cn/
-        - name: 我要自学网
-          description: 我要自学网提供免费视频教程,提供全方位软件学习
-          url: https://www.51zxw.net/
+        
     - name: 网络存储   
       sites:
         - name: 阿里云盘
@@ -126,18 +120,12 @@ content:
         - name: 腾讯微云
           description: 微云是腾讯公司为用户精心打造的一项智能云服务
           url: https://www.weiyun.com/
-        - name: 超星云盘
-          description: 不限速，免费空间100G，客户端上传单文件上限15G
-          url: https://passport2.chaoxing.com/login?fid=&refer=/ 
         - name: 百度网盘
           description: 百度网盘为您提供文件的网络备份、同步和分享服务
           url: https://pan.baidu.com/
         - name: 文叔叔
           description: 传文件，找文叔叔（永不限速）
           url: https://www.wenshushu.cn/
-        - name: 115网盘
-          description: 115社区，你的网上家园
-          url: https://115.com/
         - name: 永硕E盘
           description: 数据存储、交流平台,可以保存您的文件、网址、记事等
           url: http://www.ys168.com/ 
@@ -196,15 +184,9 @@ content:
         - name: 微博
           description: 随时随地发现新鲜事！微博带你欣赏世界上每一个精彩瞬间，了解每一个幕后故事
           url: https://weibo.com/
-        - name: 百度贴吧
-          description: 全球最大的中文社区。贴吧的使命是让志同道合的人相聚
-          url: https://tieba.baidu.com/
         - name: 知乎
           description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命
           url: https://www.zhihu.com/explore#daily-hot/
-        - name: 豆瓣
-          description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活
-          url: https://www.douban.com/
     - name: 影视资源
       sites:
         - name: 哔哩哔哩
@@ -225,9 +207,6 @@ content:
         - name: 央视纪实
           description: 纪实台汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等各具特色的高清正版纪录片资源，是国内纪录片资源最为丰富的视频播放频道
           url: http://jishi.cctv.com/
-        - name: 爱奇艺免费看
-          description: 爱奇艺免费专区
-          url: https://www.iqiyi.com/kszt/freefilm.html 
         - name: 新点亮视频
           description: 新点亮视频网页版
           url: https://dianliang521.github.io/xindianliangshipin/index.html
