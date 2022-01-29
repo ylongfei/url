@@ -102,9 +102,6 @@ content:
         - name: 大学资源网
           description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台
           url: http://www.dxzy163.com/
-        - name: 爱课程
-          description: “爱课程”网是教育部、财政部“十二五”期间启动实施的“高等学校本科教学质量与教学改革工程”委托高等教育出版社建设的高等教育课程资源共享平台
-          url: https://www.icourses.cn/home/
         - name: 北京大学公开课
           description: 北京大学公开课
           url: http://opencourse.pku.edu.cn/course/opencourse2/index.html
