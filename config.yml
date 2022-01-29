@@ -137,12 +137,15 @@ content:
         - name: Office Tool Plus
           description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
           url: https://otp.landian.vip/zh-cn/
-        - name: 果核剥壳
-          description: 果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，安卓软件等
-          url: https://www.ghxi.com/
         - name: 小鱼儿yr系统
           description: 小鱼儿yr系统专注于WIN7，WIN10，系统封装，封装系统，重装系统，系统教程
           url: https://www.yrxitong.com/
+        - name: 果核剥壳
+          description: 果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，安卓软件等
+          url: https://www.ghxi.com/
+        - name: 腾讯软件中心
+          description: 腾讯软件中心提拱海量免费软件安全下载
+          url: https://pc.qq.com/
         - name: 小众软件
           description: 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
           url: https://www.appinn.com/
@@ -151,10 +154,7 @@ content:
           url: http://www.dayanzai.me/
         - name: 正版中国
           description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯,以此促进国内版权氛围的改进
-          url: https://www.getitfree.cn/
-        - name: 腾讯软件中心
-          description: 腾讯软件中心提拱海量免费软件安全下载
-          url: https://pc.qq.com/
+          url: https://www.getitfree.cn/ 
         - name: Ventoy
           description: 新一代多系统启动U盘解决方案
           url: https://www.ventoy.net/cn/index.html
@@ -179,7 +179,7 @@ content:
           description: GitHub brings together the world’s largest community of developers to discover.
           url: https://github.com/
         - name: 微博
-          description: 随时随地发现新鲜事！微博带你欣赏世界上每一个精彩瞬间，了解每一个幕后故事
+          description: 随时随地发现新鲜事
           url: https://weibo.com/
         - name: 知乎
           description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命
