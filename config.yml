@@ -40,6 +40,18 @@ content:
   categories:
     - name: 在线工具
       sites:
+        - name: 腾讯文档
+          description: 腾讯文档是一款可多人协作的在线文档
+          url: https://docs.qq.com/
+        - name: 金山文档
+          description: 可多人实时协作编辑的在线文档
+          url: https://www.kdocs.cn/
+        - name: 金山表单
+          description: 金山表单是免费的在线表单
+          url: https://f.wps.cn/home
+        - name: 有道云笔记
+          description: 专注办公提效的笔记软件
+          url: https://note.youdao.com/
         - name: 一个工具箱
           description: 一个工具箱网站致力于为您打造一个好用便捷的在线工具箱
           url: http://www.atoolbox.net/
@@ -52,18 +64,6 @@ content:
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
-        - name: 有道云笔记
-          description: 专注办公提效的笔记软件
-          url: https://note.youdao.com/
-        - name: 腾讯文档
-          description: 腾讯文档是一款可多人协作的在线文档
-          url: https://docs.qq.com/
-        - name: 金山文档
-          description: 可多人实时协作编辑的在线文档
-          url: https://www.kdocs.cn/
-        - name: 金山表单
-          description: 金山表单是免费的在线表单
-          url: https://f.wps.cn/home
         - name: 问卷星
           description: 问卷调查,调查问卷,在线考试
           url: https://www.wjx.cn/
@@ -120,6 +120,18 @@ content:
         - name: 正版中国
           description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯,以此促进国内版权氛围的改进
           url: https://www.getitfree.cn/
+        - name: 腾讯软件中心
+          description:
+          url: https://pc.qq.com/
+        - name: Ventoy
+          description: 新一代多系统启动U盘解决方案
+          url: https://www.ventoy.net/cn/index.html
+        - name: DLL-FLES
+          description: DLL问题解决方案
+          url: https://cn.dll-files.com/
+        - name: TrafficMonitor
+          description: 流量监控器
+          url: https://github.com/zhongyang219/TrafficMonitor/releases
     - name: 社区资讯  
       sites:
         - name: IT之家
@@ -169,6 +181,9 @@ content:
         - name: 爱奇艺免费看
           description: 爱奇艺免费专区
           url: https://www.iqiyi.com/kszt/freefilm.html 
+        - name: 新点亮视频
+          description: 新点亮视频网页版
+          url: https://dianliang521.github.io/xindianliangshipin/index.html
     - name: 在线课程
       sites:
         - name: 我要自学网
