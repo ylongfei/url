@@ -94,10 +94,65 @@ content:
         - name: 临时邮箱
           description: 临时邮箱、24小时邮箱
           url: http://24mail.chacuo.net/ 
+    - name: 在线课程
+      sites:
+        - name: 我要自学网
+          description: 我要自学网提供免费视频教程,提供全方位软件学习
+          url: https://www.51zxw.net/
+        - name: 大学资源网
+          description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台
+          url: http://www.dxzy163.com/
+        - name: w3school
+          description: w3school 在线教程
+          url: https://www.w3school.com.cn/
+        - name: 菜鸟教程
+          description: 菜鸟教程提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识
+          url: https://www.runoob.com/
+        - name: 爱课程
+          description: “爱课程”网是教育部、财政部“十二五”期间启动实施的“高等学校本科教学质量与教学改革工程”委托高等教育出版社建设的高等教育课程资源共享平台
+          url: https://www.icourses.cn/home/
+        - name: 中国大学MOOC
+          description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台,由爱课程网携手网易云课堂打造
+          url: https://www.icourse163.org/
+        - name: 北京大学公开课
+          description: 北京大学公开课
+          url: http://opencourse.pku.edu.cn/course/opencourse2/index.html
+        - name: 网易公开课
+          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析
+          url:  https://open.163.com/
+        - name: 腾讯课堂
+          description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师
+          url:  https://ke.qq.com/  
+    - name: 网络存储   
+      sites:
+        - name: 阿里云盘
+          description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘
+          url: https://www.aliyundrive.com/
+        - name: 天翼云盘
+          description: 天翼云盘是中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务
+          url: https://cloud.189.cn/web/login.html/
+        - name: 腾讯微云
+          description: 微云是腾讯公司为用户精心打造的一项智能云服务
+          url: https://www.weiyun.com/
+        - name: 超星云盘
+          description: 不限速，免费空间100G，客户端上传单文件上限15G
+          url: https://passport2.chaoxing.com/login?fid=&refer=/ 
+        - name: 百度网盘
+          description: 百度网盘为您提供文件的网络备份、同步和分享服务
+          url: https://pan.baidu.com/
+        - name: 文叔叔
+          description: 传文件，找文叔叔（永不限速）
+          url: https://www.wenshushu.cn/
+        - name: 115网盘
+          description: 115社区，你的网上家园
+          url: https://115.com/
+        - name: 永硕E盘
+          description: 数据存储、交流平台,可以保存您的文件、网址、记事等
+          url: http://www.ys168.com/ 
     - name: 软件工具
       sites:
         - name: MSND
-          description: 一个原版软件信息收录站点，该网站创办十年仍是非常简洁的风格，没有广告
+          description: 一个原版软件信息收录站点，该网站创办十年仍是非常简洁的风格
           url: https://msdn.itellyou.cn/
         - name: Office Tool Plus
           description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
@@ -121,7 +176,7 @@ content:
           description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯,以此促进国内版权氛围的改进
           url: https://www.getitfree.cn/
         - name: 腾讯软件中心
-          description:
+          description: 腾讯软件中心提拱海量免费软件安全下载
           url: https://pc.qq.com/
         - name: Ventoy
           description: 新一代多系统启动U盘解决方案
@@ -184,61 +239,7 @@ content:
         - name: 新点亮视频
           description: 新点亮视频网页版
           url: https://dianliang521.github.io/xindianliangshipin/index.html
-    - name: 在线课程
-      sites:
-        - name: 我要自学网
-          description: 我要自学网提供免费视频教程,提供全方位软件学习
-          url: https://www.51zxw.net/
-        - name: 大学资源网
-          description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台
-          url: http://www.dxzy163.com/
-        - name: w3school
-          description: w3school 在线教程
-          url: https://www.w3school.com.cn/
-        - name: 菜鸟教程
-          description: 菜鸟教程提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识
-          url: https://www.runoob.com/
-        - name: 爱课程
-          description: “爱课程”网是教育部、财政部“十二五”期间启动实施的“高等学校本科教学质量与教学改革工程”委托高等教育出版社建设的高等教育课程资源共享平台
-          url: https://www.icourses.cn/home/
-        - name: 中国大学MOOC
-          description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台,由爱课程网携手网易云课堂打造
-          url: https://www.icourse163.org/
-        - name: 北京大学公开课
-          description: 北京大学公开课
-          url: http://opencourse.pku.edu.cn/course/opencourse2/index.html
-        - name: 网易公开课
-          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析
-          url:  https://open.163.com/
-        - name: 腾讯课堂
-          description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师
-          url:  https://ke.qq.com/  
-    - name: 网络存储   
-      sites:
-        - name: 阿里云盘
-          description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘
-          url: https://www.aliyundrive.com/
-        - name: 天翼云盘
-          description: 天翼云盘是中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务
-          url: https://cloud.189.cn/web/login.html/
-        - name: 腾讯微云
-          description: 微云是腾讯公司为用户精心打造的一项智能云服务
-          url: https://www.weiyun.com/
-        - name: 超星云盘
-          description: 不限速，免费空间100G，客户端上传单文件上限15G
-          url: https://passport2.chaoxing.com/login?fid=&refer=/ 
-        - name: 百度网盘
-          description: 百度网盘为您提供文件的网络备份、同步和分享服务
-          url: https://pan.baidu.com/
-        - name: 文叔叔
-          description: 传文件，找文叔叔（永不限速）
-          url: https://www.wenshushu.cn/
-        - name: 115网盘
-          description: 115社区，你的网上家园
-          url: https://115.com/
-        - name: 永硕E盘
-          description: 数据存储、交流平台,可以保存您的文件、网址、记事等
-          url: http://www.ys168.com/   
+      
     
     - name: 网页扩展
       sites: 
