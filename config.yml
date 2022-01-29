@@ -137,9 +137,6 @@ content:
         - name: Office Tool Plus
           description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
           url: https://otp.landian.vip/zh-cn/
-        - name: 微当下载
-          description: 微当下载是一个免费的软件下载站，以官方软件、绿色软件、浏览器、手机软件等软件为主
-          url: https://www.weidown.com/
         - name: 果核剥壳
           description: 果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，安卓软件等
           url: https://www.ghxi.com/
