@@ -87,15 +87,16 @@ content:
           url: http://24mail.chacuo.net/ 
     - name: 影视资源
       sites: 
-        - name: 腾讯视频
-          description: 在线视频媒体平台，海量高清视频在线观看
-          url: https://v.qq.com/
-        - name: 爱奇艺
-          description: 在线视频网站，海量正版高清视频在线观看
-          url: https://www.iqiyi.com/
         - name: 优酷
           description: 视频服务平台,提供视频播放,视频发布,视频搜索,视频分享
           url: https://www.youku.com/
+        
+        - name: 爱奇艺
+          description: 在线视频网站，海量正版高清视频在线观看
+          url: https://www.iqiyi.com/
+        - name: 腾讯视频
+          description: 在线视频媒体平台，海量高清视频在线观看
+          url: https://v.qq.com/
         - name: 哔哩哔哩
           description: bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主
           url: https://www.bilibili.com
