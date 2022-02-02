@@ -5,7 +5,7 @@ title: 网址导航
 description: ylfei's navigation site
 
 # favicon of website
-favicon: "https://github.com/ylfei.png?size=20"
+favicon: "https://github.com/ylfei.png?size=40"
 
 # your website url
 url: https://ylfei.github.io/web/index.html
@@ -103,7 +103,7 @@ content:
           description: 央视网是中央广播电视总台主办的中央重点新闻网站，是拥有全牌照业务资质的大型互联网文化企业
           url: https://tv.cctv.com/
         - name: 央视纪实
-          description: 纪实台汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等各具特色的高清正版纪录片资源，是国内纪录片资源最为丰富的视频播放频道
+          description: 纪实台汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等
           url: http://jishi.cctv.com/
         - name: 新点亮视频
           description: 新点亮视频网页版
@@ -292,7 +292,7 @@ content:
           description: 提供科研网站导航，网址库等服务
           url: https://site.sciping.com/
         - name: 爱学术导航
-          description: 爱学术导航是科研学术信噪比最高的导航站，致力于成为国内领先的科研与学术资源导航平台，为科研人员提供科研网站导航，网址库等服务，让科研工作更简单、更有效率
+          description: 爱学术导航是科研学术信噪比最高的导航站，致力于成为国内领先的科研与学术资源导航平台，为科研人员提供科研网站导航，网址库等服务
           url: https://www.ixsdh.com/
         - name: 考拉新媒体导航
           description: 考拉新媒体导航，新媒体人的专属门户网站
