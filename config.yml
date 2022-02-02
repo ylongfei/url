@@ -14,7 +14,7 @@ url: https://ylfei.github.io/web/index.html
 github: "https://github.com/ylfei/web"
 
 # footer message
-footer: Information © 2019-2022 Website by ylfei
+footer: Information © 2021-2022 Website by ylfei
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -85,29 +85,29 @@ content:
         - name: 临时邮箱
           description: 临时邮箱、24小时邮箱
           url: http://24mail.chacuo.net/ 
-    - name: 在线课程
-      sites:
-        - name: 中国大学MOOC
-          description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台,由爱课程网携手网易云课堂打造
-          url: https://www.icourse163.org/
-        - name: 大学资源网
-          description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台
-          url: http://www.dxzy163.com/
-        - name: 北京大学公开课
-          description: 北京大学公开课
-          url: http://opencourse.pku.edu.cn/course/opencourse2/index.html
-        - name: 网易公开课
-          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析
-          url:  https://open.163.com/
-        - name: 腾讯课堂
-          description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师
-          url:  https://ke.qq.com/
-        - name: 菜鸟教程
-          description: 菜鸟教程提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识
-          url: https://www.runoob.com/
-        - name: w3school
-          description: w3school 在线教程
-          url: https://www.w3school.com.cn/
+    - name: 影视资源
+      sites: 
+        - name: 腾讯视频
+          description: 在线视频媒体平台，海量高清视频在线观看
+          url: https://v.qq.com/
+        - name: 爱奇艺
+          description: 在线视频网站，海量正版高清视频在线观看
+          url: https://www.iqiyi.com/
+        - name: 优酷
+          description: 视频服务平台,提供视频播放,视频发布,视频搜索,视频分享
+          url: https://www.youku.com/
+        - name: 哔哩哔哩
+          description: bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主
+          url: https://www.bilibili.com
+        - name: 央视网
+          description: 央视网是中央广播电视总台主办的中央重点新闻网站，是拥有全牌照业务资质的大型互联网文化企业
+          url: https://tv.cctv.com/
+        - name: 央视纪实
+          description: 纪实台汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等各具特色的高清正版纪录片资源，是国内纪录片资源最为丰富的视频播放频道
+          url: http://jishi.cctv.com/
+        - name: 新点亮视频
+          description: 新点亮视频网页版
+          url: https://dianliang521.github.io/xindianliangshipin/index.html
         
     - name: 网络存储   
       sites:
@@ -184,29 +184,29 @@ content:
         - name: 知乎
           description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命
           url: https://www.zhihu.com/explore#daily-hot/
-    - name: 影视资源
+    - name: 在线课程
       sites:
-        - name: 哔哩哔哩
-          description: bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主
-          url: https://www.bilibili.com/
-        - name: 腾讯视频
-          description: 在线视频媒体平台，海量高清视频在线观看
-          url: https://v.qq.com/
-        - name: 爱奇艺
-          description: 在线视频网站，海量正版高清视频在线观看
-          url: https://www.iqiyi.com/
-        - name: 优酷
-          description: 视频服务平台,提供视频播放,视频发布,视频搜索,视频分享
-          url: https://www.youku.com/
-        - name: 央视网
-          description: 央视网是中央广播电视总台主办的中央重点新闻网站，是拥有全牌照业务资质的大型互联网文化企业
-          url: https://tv.cctv.com/
-        - name: 央视纪实
-          description: 纪实台汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等各具特色的高清正版纪录片资源，是国内纪录片资源最为丰富的视频播放频道
-          url: http://jishi.cctv.com/
-        - name: 新点亮视频
-          description: 新点亮视频网页版
-          url: https://dianliang521.github.io/xindianliangshipin/index.html
+        - name: 中国大学MOOC
+          description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台,由爱课程网携手网易云课堂打造
+          url: https://www.icourse163.org/
+        - name: 大学资源网
+          description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台
+          url: http://www.dxzy163.com/
+        - name: 北京大学公开课
+          description: 北京大学公开课
+          url: http://opencourse.pku.edu.cn/course/opencourse2/index.html
+        - name: 网易公开课
+          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析
+          url:  https://open.163.com/
+        - name: 腾讯课堂
+          description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师
+          url:  https://ke.qq.com/
+        - name: 菜鸟教程
+          description: 菜鸟教程提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识
+          url: https://www.runoob.com/
+        - name: w3school
+          description: w3school 在线教程
+          url: https://www.w3school.com.cn/
     - name: 网页扩展
       sites: 
         - name: Chrome插件
