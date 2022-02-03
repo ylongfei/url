@@ -227,9 +227,7 @@ content:
           url: https://greasyfork.org/zh-CN/scripts/
     - name: 在线配色
       sites:
-        - name: 炫酷配色
-          description: 设计师配色神器
-          url: https://www.coocolors.com/
+        
         - name: SDC优设网配色工具
           description: 优设网帮助您完成配色方案，不用配色软件轻松配色
           url: https://color.uisdc.com/
@@ -239,9 +237,7 @@ content:
         - name: 中国传统颜色
           description: 中国传统颜色
           url: http://zhongguose.com/
-        - name: 颜色表大全
-          description: 颜色表大全
-          url: https://www.5tu.cn/colors/yansebiao.html   
+        
     - name: 字体资源
       sites: 
         - name: 站长字体
