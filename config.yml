@@ -73,9 +73,9 @@ content:
         - name: QQ邮箱
           description: QQ邮箱是腾讯公司向用户提供安全、稳定、快速、便捷电子邮件服务的邮箱产品
           url: https://mail.qq.com/
-        - name: 新浪邮箱
-          description: 新浪邮箱，提供以@sina.com和@sina.cn为后缀的免费邮箱
-          url: https://mail.sina.com.cn/
+        - name: 完美邮箱
+          description: 轻松定制个人专业邮箱，免费定制二级域名
+          url: https://www.email.cn/
         - name: 腾讯企业邮箱
           description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱
           url: https://exmail.qq.com/login/
