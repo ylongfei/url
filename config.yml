@@ -8,7 +8,7 @@ description: ylfei's navigation site
 favicon: "https://github.com/ylfei.png?size=40"
 
 # your website url
-url: https://ylfei.github.io/web/index.html
+url: https://ylfei.github.io/web
 
 # github profile url
 github: "https://github.com/ylfei/web"
@@ -90,7 +90,6 @@ content:
         - name: 优酷
           description: 视频服务平台,提供视频播放,视频发布,视频搜索,视频分享
           url: https://www.youku.com/
-        
         - name: 爱奇艺
           description: 在线视频网站，海量正版高清视频在线观看
           url: https://www.iqiyi.com/
@@ -225,9 +224,19 @@ content:
         - name: Greasy Fork
           description: Greasy Fork - 安全、实用的用户脚本大全
           url: https://greasyfork.org/zh-CN/scripts/
+    - name: PDF转换
+      sites:
+        - name: PDF2GO
+          description: 免费的在线PDF转换器
+          url:  https://www.pdf2go.com/zh
+        - name:  iLovePDF
+          description: 免费支持15MB的PDF转换
+          url: https://www.ilovepdf.com/zh-cn
+        - name: ALL TO ALL
+          description: 在线格式转换
+          url: https://www.alltoall.net
     - name: 在线配色
       sites:
-        
         - name: SDC优设网配色工具
           description: 优设网帮助您完成配色方案，不用配色软件轻松配色
           url: https://color.uisdc.com/
@@ -237,7 +246,6 @@ content:
         - name: 中国传统颜色
           description: 中国传统颜色
           url: http://zhongguose.com/
-        
     - name: 字体资源
       sites: 
         - name: 站长字体
@@ -252,7 +260,6 @@ content:
         - name: 字体之家
           description: 字体之家提供最全的免费手机字体和手机软件下载,包括各种字体打包下载,中文字体,英文字体,ps字体,艺术字体,手机软件，字体工具等
           url: http://www.17ziti.com/
-        
         - name: 字由
           description: 字由是为设计师量身定做的一款字体下载管理工具
           url: https://www.hellofont.cn/
