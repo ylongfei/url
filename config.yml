@@ -224,6 +224,9 @@ content:
         - name: Greasy Fork
           description: Greasy Fork - 安全、实用的用户脚本大全
           url: https://greasyfork.org/zh-CN/scripts/
+        - name: Crx搜搜
+          description: 浏览器扩展商店
+          url: https://www.crxsoso.com/
     - name: PDF转换
       sites:
         - name: PDF2GO
