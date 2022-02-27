@@ -227,6 +227,9 @@ content:
         - name: Crx搜搜
           description: 浏览器扩展商店
           url: https://www.crxsoso.com/
+        - name: CrxDL
+          description: 浏览器扩展离线安装包
+          url: https://crxdl.com/
     - name: PDF转换
       sites:
         - name: PDF2GO
@@ -299,6 +302,9 @@ content:
         - name: 考拉新媒体导航
           description: 考拉新媒体导航，新媒体人的专属门户网站
           url: https://www.kaolamedia.com/
+        - name: 今日热榜官网
+          description: 今日热榜提供各站热榜聚合
+          url: https://tophub.today/
         - name: 新媒体导航
           description: 工具推荐服务，是一个优秀、绿色、安全、好用的新媒体助手
           url: http://123.meibp.com/
