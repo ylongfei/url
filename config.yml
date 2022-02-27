@@ -304,7 +304,7 @@ content:
           url: https://www.kaolamedia.com/
         - name: 今日热榜官网
           description: 今日热榜提供各站热榜聚合
-          url: https://tophub.today/
+          url: https://tophub.today
         - name: 新媒体导航
           description: 工具推荐服务，是一个优秀、绿色、安全、好用的新媒体助手
           url: http://123.meibp.com/
