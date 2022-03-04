@@ -31,10 +31,11 @@ webstack:
     engines:
       - baidu
       - bing
-      - github
-     
+      - sougou
+      - qwant
       - bilibili
       - zhihu
+      - mengsou
 
 content:
   categories:
