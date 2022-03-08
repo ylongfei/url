@@ -32,10 +32,10 @@ webstack:
       - baidu
       - bing
       - sougou
-      - qwant
+      
       - bilibili
       - zhihu
-      - mengsou
+      
 
 content:
   categories:
@@ -162,6 +162,9 @@ content:
         - name: DLL-FLES
           description: DLL问题解决方案
           url: https://cn.dll-files.com/
+        - name: Snipaste
+          description: Snipaste-截图 + 贴图
+          url: https://zh.snipaste.com/
         - name: TrafficMonitor
           description: 流量监控器
           url: https://github.com/zhongyang219/TrafficMonitor/releases
