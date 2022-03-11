@@ -318,4 +318,7 @@ content:
         - name: 大数据导航
           description: 大数据导航
           url: http://hao.bigdata.ren/
+        - name: y导航
+          description: ysepan.com
+          url: http://yanglf.ysepan.com/
  
