@@ -65,6 +65,9 @@ content:
         - name: my导航
           description: ysepan.com
           url: http://yanglf.ysepan.com/
+        - name: 打印啦
+          description: 3D打印模型下载
+          url: http://www.dayin.la/
      
     - name: 电子邮箱
       sites:
