@@ -39,7 +39,7 @@ webstack:
 
 content:
   categories:
-    - name: 在线工具
+    - name: 常用网站
       sites:
         - name: 腾讯文档
           description: 腾讯文档是一款可多人协作的在线文档
@@ -62,6 +62,9 @@ content:
         - name: 问卷星
           description: 问卷调查,调查问卷,在线考试
           url: https://www.wjx.cn/
+        - name: my导航
+          description: ysepan.com
+          url: http://yanglf.ysepan.com/
      
     - name: 电子邮箱
       sites:
@@ -318,7 +321,5 @@ content:
         - name: 大数据导航
           description: 大数据导航
           url: http://hao.bigdata.ren/
-        - name: y导航
-          description: ysepan.com
-          url: http://yanglf.ysepan.com/
+        
  
