@@ -47,9 +47,7 @@ content:
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
           url: https://www.kdocs.cn/
-        - name: 金山表单
-          description: 金山表单是免费的在线表单
-          url: https://f.wps.cn/home
+        
         - name: 有道云笔记
           description: 专注办公提效的笔记软件
           url: https://note.youdao.com/
