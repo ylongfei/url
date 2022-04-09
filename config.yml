@@ -57,15 +57,18 @@ content:
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
-        - name: 问卷星
-          description: 问卷调查,调查问卷,在线考试
-          url: https://www.wjx.cn/
+        - name: 测网速
+          description: 网络测速
+          url: https://www.speedtest.net/
         - name: my导航
           description: ysepan.com
           url: http://yanglf.ysepan.com/
         - name: 打印啦
           description: 3D打印模型下载
           url: http://www.dayin.la/
+        - name: 河南地矿职业学院
+          description: 河南地矿职业学院官网
+          url: http://www.hagmc.edu.cn/
      
     - name: 电子邮箱
       sites:
