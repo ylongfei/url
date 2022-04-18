@@ -58,9 +58,7 @@ content:
         - name: 测网速
           description: 网络测速
           url: https://www.speedtest.net/
-        - name: my导航
-          description: ysepan.com
-          url: http://yanglf.ysepan.com/
+        
         - name: 打印啦
           description: 3D打印模型下载
           url: http://www.dayin.la/
@@ -311,6 +309,9 @@ content:
         - name: 考拉新媒体导航
           description: 考拉新媒体导航，新媒体人的专属门户网站
           url: https://www.kaolamedia.com/
+        - name: my导航
+          description: ysepan.com
+          url: http://yanglf.ysepan.com/
         - name: 今日热榜官网
           description: 今日热榜提供各站热榜聚合
           url: https://tophub.today
