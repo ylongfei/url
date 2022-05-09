@@ -46,7 +46,7 @@ content:
           description: 可多人实时协作编辑的在线文档
           url: https://www.kdocs.cn/
         - name: 一个工具箱
-          description: 一个工具箱网站致力于为您打造一个好用便捷的在线工具箱
+          description: 好用便捷的在线工具箱
           url: http://www.atoolbox.net/
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
@@ -63,6 +63,9 @@ content:
         - name: 浙江图书馆
           description: 浙江图书馆
           url: https://www.zjlib.cn/
+        - name: 今日热榜
+          description: 今日热榜提供各站热榜聚合
+          url: https://tophub.today
      
     - name: 电子邮箱
       sites:
@@ -260,19 +263,19 @@ content:
     - name: 字体资源
       sites: 
         - name: 站长字体
-          description: 字体库提供,中文字体下载,英文字体下载,书法字体下载,艺术字体下载,广告字体下载,方正字体下载等字体免费下载
+          description: 字体库提供,中文字体下载,英文字体下载,书法字体下载,方正字体下载等字体免费下载
           url: https://font.chinaz.com/
         - name: 找字网
           description: 提供中英文免费字体下载
           url: http://www.zhaozi.cn/
         - name: 猫啃网
-          description: 猫啃网致力于为广大设计师提供最新最全且免费的，可商用，无版权问题的免费字体下载
+          description: 致力于为广大设计师提供最新最全且免费的，可商用，无版权问题的免费字体下载
           url: https://www.maoken.com/
         - name: 字体之家
           description: 字体之家提供最全的免费手机字体和手机软件下载
           url: http://www.17ziti.com/
         - name: 字由
-          description: 字由是为设计师量身定做的一款字体下载管理工具
+          description: 为设计师量身定做的一款字体下载管理工具
           url: https://www.hellofont.cn/
         - name: 方正字库
           description: 方正字库官方网站
@@ -289,15 +292,9 @@ content:
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.com/
-        - name: 办公网站导航
-          description: 办公人员网址导航，办公人员网站导航
-          url: http://hao.xuewps.com/
         - name: 24K导航
           description: 专注全网优质网址、优质资源分享
           url: https://www.24kdh.com/
-        - name: 爱学术导航
-          description: 爱学术导航是科研学术信噪比最高的导航站
-          url: https://www.ixsdh.com/
         - name: 科塔学术导航
           description: 提供科研网站导航，网址库等服务
           url: https://site.sciping.com/
@@ -306,13 +303,5 @@ content:
           url: https://www.kaolamedia.com/
         - name: my导航
           description: ysepan.com
-          url: http://yanglf.ysepan.com/
-        - name: 今日热榜官网
-          description: 今日热榜提供各站热榜聚合
-          url: https://tophub.today
-        - name: 新媒体导航
-          description: 工具推荐服务，是一个优秀、绿色、安全、好用的新媒体助手
-          url: http://123.meibp.com/
-        
-        
+          url: http://yanglf.ysepan.com/ 
  
