@@ -39,12 +39,12 @@ content:
   categories:
     - name: 常用网站
       sites:
-        - name: 金山文档
-          description: 可多人实时协作编辑的在线文档
-          url: https://www.kdocs.cn/
         - name: 文叔叔
           description: 传文件，找文叔叔（永不限速）
           url: https://www.wenshushu.cn/
+        - name: 金山文档
+          description: 可多人实时协作编辑的在线文档
+          url: https://www.kdocs.cn/
         - name: 一个工具箱
           description: 一个工具箱网站致力于为您打造一个好用便捷的在线工具箱
           url: http://www.atoolbox.net/
@@ -105,7 +105,7 @@ content:
           description: 央视网是中央广播电视总台主办的中央重点新闻网站
           url: https://tv.cctv.com/
         - name: 央视纪实
-          description: 汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等
+          description: 汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、NHK等
           url: http://jishi.cctv.com/
         - name: 新点亮视频
           description: 新点亮视频网页版
@@ -134,7 +134,7 @@ content:
     - name: 软件工具
       sites:
         - name: MSND
-          description: 一个原版软件信息收录站点，该网站创办十年仍是非常简洁的风格
+          description: MSDN,我告诉你
           url: https://msdn.itellyou.cn/
         - name: Office Tool Plus
           description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
@@ -143,19 +143,16 @@ content:
           description: 小鱼儿yr系统专注于WIN7，WIN10，系统封装，封装系统，重装系统，系统教程
           url: https://www.yrxitong.com/
         - name: 果核剥壳
-          description: 果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，安卓软件等
+          description: 博客类型的资源分享软件，分享绿色软件软件等
           url: https://www.ghxi.com/
         - name: 腾讯软件中心
-          description: 腾讯软件中心提拱海量免费软件安全下载
+          description: 提拱海量免费软件安全下载
           url: https://pc.qq.com/
         - name: 枫音应用
           description: 专注分享免费、绿色实用软件
           url: https://www.fy6b.com/
-        - name: 小众软件
-          description: 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
-          url: https://www.appinn.com/
         - name: 大眼仔
-          description: 大眼仔旭博客提供各类PC软件,绿色软件,汉化软件,软件教程
+          description: 提供各类PC软件,绿色软件,汉化软件,软件教程
           url: http://www.dayanzai.me/
         - name: 正版中国
           description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯
