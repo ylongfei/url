@@ -31,7 +31,6 @@ webstack:
     engines:
       - baidu
       - bing
-      - sougou
       
       - bilibili
       - zhihu
@@ -41,7 +40,6 @@ content:
   categories:
     - name: 常用网站
       sites:
-        
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
           url: https://www.kdocs.cn/
@@ -103,10 +101,10 @@ content:
           description: 在线视频媒体平台，海量高清视频在线观看
           url: https://v.qq.com/
         - name: 哔哩哔哩
-          description: bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主
+          description: bilibili是国内知名的视频弹幕网站
           url: https://www.bilibili.com
         - name: 央视网
-          description: 央视网是中央广播电视总台主办的中央重点新闻网站，是拥有全牌照业务资质的大型互联网文化企业
+          description: 央视网是中央广播电视总台主办的中央重点新闻网站
           url: https://tv.cctv.com/
         - name: 央视纪实
           description: 纪实台汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等
@@ -152,9 +150,6 @@ content:
         - name: 腾讯软件中心
           description: 腾讯软件中心提拱海量免费软件安全下载
           url: https://pc.qq.com/
-        - name: 枫音应用
-          description: 专注分享免费、绿色实用软件
-          rul: https://www.fy6b.com/
         - name: 小众软件
           description: 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
           url: https://www.appinn.com/
@@ -190,7 +185,9 @@ content:
         - name: GitHub
           description: GitHub brings together the world’s largest community of developers to discover.
           url: https://github.com/
-        
+        - name: 微博
+          description: 随时随地发现新鲜事
+          url: https://weibo.com/
         - name: 知乎
           description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命
           url: https://www.zhihu.com/explore#daily-hot/
@@ -265,7 +262,7 @@ content:
     - name: 字体资源
       sites: 
         - name: 站长字体
-          description: 字体库提供,中文字体下载,英文字体下载,书法字体下载,方正字体下载等字体免费下载
+          description: 字体库提供,中文字体下载,英文字体下载,书法字体下载,艺术字体下载,广告字体下载,方正字体下载等字体免费下载
           url: https://font.chinaz.com/
         - name: 找字网
           description: 提供中英文免费字体下载、手写字体下载、书法字体下载、艺术字体下载、手机字体下载预览服务
@@ -274,7 +271,7 @@ content:
           description: 猫啃网致力于为广大设计师提供最新最全且免费的，可商用，无版权问题的免费字体下载
           url: https://www.maoken.com/
         - name: 字体之家
-          description: 字体之家提供最全的免费手机字体和手机软件下载
+          description: 字体之家提供最全的免费手机字体和手机软件下载,包括各种字体打包下载,中文字体,英文字体,ps字体,艺术字体,手机软件，字体工具等
           url: http://www.17ziti.com/
         - name: 字由
           description: 字由是为设计师量身定做的一款字体下载管理工具
@@ -288,26 +285,26 @@ content:
    
     - name: 网址导航
       sites:
+        - name: 程序员导航
+          description: CXY521是一个致力于一站式程序员学习工作娱乐导航网站，以让程序员更便捷为使命，始终围绕程序员需求，为程序员提供最新工具导航
+          url: https://www.cxy521.com/
         - name: 有趣网站之家
           description: 分享有趣的国内外网站，应用新奇的html5网站
           url: https://youquhome.com/
-        - name: 阿虚同学的储物间
-          description: 实用导航
-          url: https://axutongxue.com/
+        - name: 24K导航
+          description: 专注全网优质网址、优质资源分享
+          url: https://www.24kdh.com/
         - name: 办公网站导航
           description: 办公人员网址导航，办公人员网站导航，专注分享优秀的办公网站、办公软件、工具、素材、技巧、办公资源
           url: http://hao.xuewps.com/
-       - name: 24K导航
-          description: 专注全网优质网址、优质资源分享
-          url: https://www.24kdh.com/ 
-        - name: 程序员导航
-          description: CXY521是一个致力于一站式程序员学习工作娱乐导航网站，为程序员提供最新工具导航
-          url: https://www.cxy521.com/
+        - name: 阿虚同学的储物间
+          description: 实用导航
+          url: https://axutongxue.com/
         - name: 科塔学术导航
           description: 提供科研网站导航，网址库等服务
           url: https://site.sciping.com/
         - name: 爱学术导航
-          description: 爱学术导航是科研学术信噪比最高的导航站，致力于成为国内领先的科研与学术资源导航平台
+          description: 爱学术导航是科研学术信噪比最高的导航站，致力于成为国内领先的科研与学术资源导航平台，为科研人员提供科研网站导航，网址库等服务
           url: https://www.ixsdh.com/
         - name: 考拉新媒体导航
           description: 考拉新媒体导航，新媒体人的专属门户网站
