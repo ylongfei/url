@@ -1,5 +1,5 @@
 # title of website
-title: 网址导航
+title: 网站导航
 
 # description of website
 description: ylfei's navigation site
@@ -31,7 +31,6 @@ webstack:
     engines:
       - baidu
       - bing
-      
       - bilibili
       - zhihu
       
@@ -55,7 +54,6 @@ content:
         - name: 测网速
           description: 网络测速
           url: https://www.speedtest.net/
-        
         - name: 打印啦
           description: 3D打印模型下载
           url: http://www.dayin.la/
@@ -107,7 +105,7 @@ content:
           description: 央视网是中央广播电视总台主办的中央重点新闻网站
           url: https://tv.cctv.com/
         - name: 央视纪实
-          description: 纪实台汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等
+          description: 汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、美国历史频道、NHK等
           url: http://jishi.cctv.com/
         - name: 新点亮视频
           description: 新点亮视频网页版
@@ -119,7 +117,7 @@ content:
           description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘
           url: https://www.aliyundrive.com/
         - name: 天翼云盘
-          description: 天翼云盘是中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务
+          description: 中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务
           url: https://cloud.189.cn/web/login.html/
         - name: 腾讯微云
           description: 微云是腾讯公司为用户精心打造的一项智能云服务
@@ -150,14 +148,17 @@ content:
         - name: 腾讯软件中心
           description: 腾讯软件中心提拱海量免费软件安全下载
           url: https://pc.qq.com/
+        - name: 枫音应用
+          description: 专注分享免费、绿色实用软件
+          url: https://www.fy6b.com/
         - name: 小众软件
           description: 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
           url: https://www.appinn.com/
         - name: 大眼仔
-          description: 大眼仔旭博客提供各类PC软件,绿色软件,手机游戏,安卓APP,汉化软件,软件教程
+          description: 大眼仔旭博客提供各类PC软件,绿色软件,汉化软件,软件教程
           url: http://www.dayanzai.me/
         - name: 正版中国
-          description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯,以此促进国内版权氛围的改进
+          description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯
           url: https://www.getitfree.cn/ 
         - name: Ventoy
           description: 新一代多系统启动U盘解决方案
@@ -185,16 +186,13 @@ content:
         - name: GitHub
           description: GitHub brings together the world’s largest community of developers to discover.
           url: https://github.com/
-        - name: 微博
-          description: 随时随地发现新鲜事
-          url: https://weibo.com/
         - name: 知乎
-          description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命
+          description: 有问题，上知乎。
           url: https://www.zhihu.com/explore#daily-hot/
     - name: 在线课程
       sites:
         - name: 中国大学MOOC
-          description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台,由爱课程网携手网易云课堂打造
+          description: 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台
           url: https://www.icourse163.org/
         - name: 大学资源网
           description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台
@@ -203,13 +201,13 @@ content:
           description: 北京大学公开课
           url: http://opencourse.pku.edu.cn/course/opencourse2/index.html
         - name: 网易公开课
-          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析
+          description: 网易视频公开课频道推出国内外名校公开课
           url:  https://open.163.com/
         - name: 腾讯课堂
           description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师
           url:  https://ke.qq.com/
         - name: 菜鸟教程
-          description: 菜鸟教程提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识
+          description: 菜鸟教程提供了编程的基础技术教程
           url: https://www.runoob.com/
         - name: w3school
           description: w3school 在线教程
@@ -217,16 +215,16 @@ content:
     - name: 网页扩展
       sites: 
         - name: Chrome插件
-          description: 使用Chrome插件可以为Chrome浏览器带来一些功能性的扩展，进而提高Chrome的使用体验
+          description: 使用Chrome插件可以为Chrome浏览器带来一些功能性的扩展
           url: https://huajiakeji.com/
         - name: Crx4Chrome插件下载
-          description: 想要安装Chrome插件的方式有许多，用户可以直接在Chrome商店中下载和安装谷歌浏览器插件
+          description: 用户可以直接在Chrome商店中下载和安装谷歌浏览器插件
           url: http://www.crx4.com/
         - name: Chrome/谷歌浏览器插件
           description: 分享好用靠谱的，Chrome/谷歌浏览器插件
           url: https://www.chrome666.com/
         - name: 扩展迷
-          description: 扩展迷-专业的Chrome插件网,提供Chrome商店/谷歌应用商店里各类Chrome插件下载
+          description: 提供Chrome商店/谷歌应用商店里各类Chrome插件下载
           url: https://www.extfans.com/    
         - name: Greasy Fork
           description: Greasy Fork - 安全、实用的用户脚本大全
@@ -265,13 +263,13 @@ content:
           description: 字体库提供,中文字体下载,英文字体下载,书法字体下载,艺术字体下载,广告字体下载,方正字体下载等字体免费下载
           url: https://font.chinaz.com/
         - name: 找字网
-          description: 提供中英文免费字体下载、手写字体下载、书法字体下载、艺术字体下载、手机字体下载预览服务
+          description: 提供中英文免费字体下载
           url: http://www.zhaozi.cn/
         - name: 猫啃网
           description: 猫啃网致力于为广大设计师提供最新最全且免费的，可商用，无版权问题的免费字体下载
           url: https://www.maoken.com/
         - name: 字体之家
-          description: 字体之家提供最全的免费手机字体和手机软件下载,包括各种字体打包下载,中文字体,英文字体,ps字体,艺术字体,手机软件，字体工具等
+          description: 字体之家提供最全的免费手机字体和手机软件下载
           url: http://www.17ziti.com/
         - name: 字由
           description: 字由是为设计师量身定做的一款字体下载管理工具
@@ -285,27 +283,24 @@ content:
    
     - name: 网址导航
       sites:
-        - name: 程序员导航
-          description: CXY521是一个致力于一站式程序员学习工作娱乐导航网站，以让程序员更便捷为使命，始终围绕程序员需求，为程序员提供最新工具导航
-          url: https://www.cxy521.com/
         - name: 有趣网站之家
           description: 分享有趣的国内外网站，应用新奇的html5网站
           url: https://youquhome.com/
-        - name: 24K导航
-          description: 专注全网优质网址、优质资源分享
-          url: https://www.24kdh.com/
-        - name: 办公网站导航
-          description: 办公人员网址导航，办公人员网站导航，专注分享优秀的办公网站、办公软件、工具、素材、技巧、办公资源
-          url: http://hao.xuewps.com/
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.com/
+        - name: 办公网站导航
+          description: 办公人员网址导航，办公人员网站导航
+          url: http://hao.xuewps.com/
+        - name: 24K导航
+          description: 专注全网优质网址、优质资源分享
+          url: https://www.24kdh.com/
+        - name: 爱学术导航
+          description: 爱学术导航是科研学术信噪比最高的导航站
+          url: https://www.ixsdh.com/
         - name: 科塔学术导航
           description: 提供科研网站导航，网址库等服务
           url: https://site.sciping.com/
-        - name: 爱学术导航
-          description: 爱学术导航是科研学术信噪比最高的导航站，致力于成为国内领先的科研与学术资源导航平台，为科研人员提供科研网站导航，网址库等服务
-          url: https://www.ixsdh.com/
         - name: 考拉新媒体导航
           description: 考拉新媒体导航，新媒体人的专属门户网站
           url: https://www.kaolamedia.com/
