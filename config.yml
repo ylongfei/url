@@ -163,6 +163,9 @@ content:
         - name: DLL-FLES
           description: DLL问题解决方案
           url: https://cn.dll-files.com/
+        - name: DLL之家
+          description: DLL文件搜索
+          url: http://www.dllzj.com/
         - name: Snipaste
           description: Snipaste-截图 + 贴图
           url: https://zh.snipaste.com/
