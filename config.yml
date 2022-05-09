@@ -31,8 +31,6 @@ webstack:
     engines:
       - baidu
       - bing
-      - sougou
-      
       - bilibili
       - zhihu
       
@@ -46,8 +44,7 @@ content:
           url: https://www.kdocs.cn/
         - name: 文叔叔
           description: 传文件，找文叔叔（永不限速）
-          url: https://www.wenshushu.cn/ 
-      
+          url: https://www.wenshushu.cn/
         - name: 一个工具箱
           description: 一个工具箱网站致力于为您打造一个好用便捷的在线工具箱
           url: http://www.atoolbox.net/
@@ -57,7 +54,6 @@ content:
         - name: 测网速
           description: 网络测速
           url: https://www.speedtest.net/
-        
         - name: 打印啦
           description: 3D打印模型下载
           url: http://www.dayin.la/
@@ -67,7 +63,6 @@ content:
         - name: 浙江图书馆
           description: 浙江图书馆
           url: https://www.zjlib.cn/
-     
     - name: 电子邮箱
       sites:
         - name: 126邮箱
@@ -286,15 +281,13 @@ content:
           url: http://ziticq.com/     
    
     - name: 网址导航
-      sites:
-        
+      sites: 
         - name: 有趣网站之家
           description: 分享有趣的国内外网站，应用新奇的html5网站
           url: https://youquhome.com/
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.com/
-        
         - name: 办公网站导航
           description: 办公人员网址导航，办公人员网站导航，专注分享优秀的办公网站、办公软件、工具、素材、技巧、办公资源
           url: http://hao.xuewps.com/
@@ -322,6 +315,3 @@ content:
         - name: 新媒体导航
           description: 工具推荐服务，是一个优秀、绿色、安全、好用的新媒体助手
           url: http://123.meibp.com/
-
-               
- 
