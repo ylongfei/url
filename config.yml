@@ -45,9 +45,7 @@ content:
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
           url: https://www.kdocs.cn/
-        - name: 一个工具箱
-          description: 好用便捷的在线工具箱
-          url: http://www.atoolbox.net/
+        
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
@@ -303,5 +301,11 @@ content:
           url: https://www.kaolamedia.com/
         - name: my导航
           description: ysepan.com
-          url: http://yanglf.ysepan.com/ 
+          url: http://yanglf.ysepan.com/
+        - name: 新媒体导航
+          description: 工具推荐服务，是一个优秀、绿色、安全、好用的新媒体助手
+          url: http://123.meibp.com/
+        - name: 学术屋
+          description: 学术屋导航
+          url: http://sci.xueshuwu.cn/
  
