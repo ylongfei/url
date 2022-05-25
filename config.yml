@@ -1,5 +1,5 @@
 # title of website
-title: 网站导航
+title: 导航
 
 # description of website
 description: ylfei's navigation site
@@ -45,7 +45,6 @@ content:
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
           url: https://www.kdocs.cn/
-        
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
@@ -64,7 +63,6 @@ content:
         - name: 今日热榜
           description: 今日热榜提供各站热榜聚合
           url: https://tophub.today
-     
     - name: 电子邮箱
       sites:
         - name: 126邮箱
