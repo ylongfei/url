@@ -57,9 +57,6 @@ content:
         - name: 河南地矿职业学院
           description: 河南地矿职业学院官网
           url: http://www.hagmc.edu.cn/
-        - name: 浙江图书馆
-          description: 浙江图书馆
-          url: https://www.zjlib.cn/
         - name: 今日热榜
           description: 今日热榜提供各站热榜聚合
           url: https://tophub.today
@@ -270,9 +267,6 @@ content:
         - name: 字体之家
           description: 字体之家提供最全的免费手机字体和手机软件下载
           url: http://www.17ziti.com/
-        - name: 字由
-          description: 为设计师量身定做的一款字体下载管理工具
-          url: https://www.hellofont.cn/
         - name: 方正字库
           description: 方正字库官方网站
           url: http://www.foundertype.com/
