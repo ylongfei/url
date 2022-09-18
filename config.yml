@@ -60,6 +60,9 @@ content:
         - name: 今日热榜
           description: 今日热榜提供各站热榜聚合
           url: https://tophub.today
+        - name: Zlibrary镜像
+          description: 世界上最大的在线图书馆之一,拥有超过11,179,413的书籍和84,837,000的文章
+          url: https://yanglongfei.net/
     - name: 电子邮箱
       sites:
         - name: 126邮箱
@@ -71,9 +74,9 @@ content:
         - name: QQ邮箱
           description: QQ邮箱是腾讯公司向用户提供安全、稳定、快速、便捷电子邮件服务的邮箱产品
           url: https://mail.qq.com/
-        - name: 完美邮箱
-          description: 轻松定制个人专业邮箱，免费定制二级域名
-          url: https://www.email.cn/
+       
+         
+          
         - name: 腾讯企业邮箱
           description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱
           url: https://exmail.qq.com/login/
