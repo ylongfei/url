@@ -74,15 +74,9 @@ content:
         - name: 163邮箱
           description: 网易163免费邮箱--中文邮箱第一品牌
           url: https://mail.163.com/
-        - name: QQ邮箱
-          description: QQ邮箱是腾讯公司向用户提供安全、稳定、快速、便捷电子邮件服务的邮箱产品
-          url: https://mail.qq.com/
         - name: 腾讯企业邮箱
           description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱
           url: https://exmail.qq.com/login/
-        - name: Outlook
-          description: 来自Microsoft的免费个人电子邮件和日历
-          url: https://outlook.live.com/
         - name: 临时邮箱
           description: 临时邮箱、24小时邮箱
           url: http://24mail.chacuo.net/ 
@@ -172,10 +166,6 @@ content:
         - name: GitHub
           description: GitHub brings together the world’s largest community of developers to discover.
           url: https://github.com/
-        - name: 知乎
-          description: 有问题，上知乎。
-          url: https://www.zhihu.com/explore#daily-hot/
-    
     - name: 在线课程
       sites:
         - name: 中国大学MOOC
@@ -204,9 +194,6 @@ content:
         - name: 阿里云盘
           description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘
           url: https://www.aliyundrive.com/
-        - name: 百度网盘
-          description: 百度网盘为您提供文件的网络备份、同步和分享服务
-          url: https://pan.baidu.com/
         - name: 文叔叔
           description: 传文件，找文叔叔（永不限速）
           url: https://www.wenshushu.cn/
