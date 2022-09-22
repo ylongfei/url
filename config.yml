@@ -112,7 +112,7 @@ content:
           description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
           url: https://otp.landian.vip/zh-cn/
         - name: 小鱼儿yr系统
-          description: 小鱼儿yr系统专注于WIN7，WIN10，系统封装，封装系统，重装系统，系统教程
+          description: 专注于系统封装重装系统下载软件分享教程
           url: https://www.yrxitong.com/
         - name: 果核剥壳
           description: 博客类型的资源分享软件，分享绿色软件软件等
@@ -120,15 +120,16 @@ content:
         - name: 腾讯软件中心
           description: 提拱海量免费软件安全下载
           url: https://pc.qq.com/
+        - name: 正版中国
+          description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯
+          url: https://www.getitfree.cn/ 
         - name: 枫音应用
           description: 专注分享免费、绿色实用软件
           url: https://www.fy6b.com/
         - name: 大眼仔
           description: 提供各类PC软件,绿色软件,汉化软件,软件教程
           url: http://www.dayanzai.me/
-        - name: 正版中国
-          description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯
-          url: https://www.getitfree.cn/ 
+        
         - name: Ventoy
           description: 新一代多系统启动U盘解决方案
           url: https://www.ventoy.net/cn/index.html
