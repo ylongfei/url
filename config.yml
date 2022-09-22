@@ -39,12 +39,7 @@ content:
   categories:
     - name: 常用网站
       sites:
-        - name: 文叔叔
-          description: 传文件，找文叔叔（永不限速）
-          url: https://www.wenshushu.cn/
-        - name: 123云盘
-          description: 一键下载分享文件 超大文件快传 免登录下载
-          url: https://www.123pan.com/
+       
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
           url: https://www.kdocs.cn/
@@ -113,30 +108,6 @@ content:
         - name: 新点亮视频
           description: 新点亮视频网页版
           url: https://dianliang521.github.io/xindianliangshipin/index.html
-        
-    - name: 网络存储   
-      sites:
-        - name: 阿里云盘
-          description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘
-          url: https://www.aliyundrive.com/
-        - name: 天翼云盘
-          description: 中国电信推出的云存储服务，为用户提供跨平台的文件存储、备份、同步及分享服务
-          url: https://cloud.189.cn/web/login.html/
-        - name: 腾讯微云
-          description: 微云是腾讯公司为用户精心打造的一项智能云服务
-          url: https://www.weiyun.com/
-        - name: 百度网盘
-          description: 百度网盘为您提供文件的网络备份、同步和分享服务
-          url: https://pan.baidu.com/
-        - name: 文叔叔
-          description: 传文件，找文叔叔（永不限速）
-          url: https://www.wenshushu.cn/
-        - name: 123云盘
-          description: 一键下载分享文件 超大文件快传 免登录下载
-          url: https://www.123pan.com/
-        - name: 永硕E盘
-          description: 数据存储、交流平台,可以保存您的文件、网址、记事等
-          url: http://www.ys168.com/ 
     - name: 软件工具
       sites:
         - name: MSND
@@ -177,7 +148,9 @@ content:
           url: https://zh.snipaste.com/
         - name: TrafficMonitor
           description: 流量监控器
-          url: https://github.com/zhongyang219/TrafficMonitor/releases
+          url: https://github.com/zhongyang219/TrafficMonitor/releases    
+    
+    
     - name: 社区资讯  
       sites:
         - name: IT之家
@@ -195,6 +168,7 @@ content:
         - name: 知乎
           description: 有问题，上知乎。
           url: https://www.zhihu.com/explore#daily-hot/
+    
     - name: 在线课程
       sites:
         - name: 中国大学MOOC
@@ -218,6 +192,23 @@ content:
         - name: w3school
           description: w3school 在线教程
           url: https://www.w3school.com.cn/
+    - name: 网络存储   
+      sites:
+        - name: 阿里云盘
+          description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘
+          url: https://www.aliyundrive.com/
+        - name: 百度网盘
+          description: 百度网盘为您提供文件的网络备份、同步和分享服务
+          url: https://pan.baidu.com/
+        - name: 文叔叔
+          description: 传文件，找文叔叔（永不限速）
+          url: https://www.wenshushu.cn/
+        - name: 123云盘
+          description: 一键下载分享文件 超大文件快传 免登录下载
+          url: https://www.123pan.com/
+        - name: 永硕E盘
+          description: 数据存储、交流平台,可以保存您的文件、网址、记事等
+          url: http://www.ys168.com/ 
     - name: 网页扩展
       sites: 
         - name: Chrome插件
