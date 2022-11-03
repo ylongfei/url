@@ -42,7 +42,7 @@ content:
        
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
-          url: www.kdocs.cn/
+          url: https://www.kdocs.cn/
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
@@ -51,7 +51,7 @@ content:
           url: https://www.speedtest.cn/
         - name: 河南地矿职业学院
           description: 河南地矿职业学院官网
-          url: www.hagmc.edu.cn/
+          url: http://www.hagmc.edu.cn/
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
@@ -86,7 +86,7 @@ content:
           url: https://www.youku.com/
         - name: 爱奇艺
           description: 在线视频网站，海量正版高清视频在线观看
-          url: www.iqiyi.com/
+          url: https://www.iqiyi.com/
         - name: 腾讯视频
           description: 在线视频媒体平台，海量高清视频在线观看
           url: https://v.qq.com/
