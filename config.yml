@@ -32,7 +32,8 @@ webstack:
       - baidu
       - bing
       - bilibili
-      - zhihu
+      - sougou
+      - 360
       
 
 content:
@@ -48,7 +49,7 @@ content:
           url: https://www.iamwawa.cn/
         - name: 测网速
           description: 网络测速
-          url: https://www.speedtest.net/
+          url: https://www.speedtest.cn/
         - name: 河南地矿职业学院
           description: 河南地矿职业学院官网
           url: http://www.hagmc.edu.cn/
