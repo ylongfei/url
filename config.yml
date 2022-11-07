@@ -55,9 +55,6 @@ content:
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
-        - name: Zlibrary镜像站
-          description: 是世界上最大的在线图书馆之一,拥有超过11,179,413的书籍和84,837,000的文章
-          url: https://yanglongfei.net/
         - name: 今日热榜
           description: 今日热榜提供各站热榜聚合
           url: https://tophub.today/
@@ -149,7 +146,10 @@ content:
           url: https://zh.snipaste.com/
         - name: TrafficMonitor
           description: 流量监控器
-          url: https://github.com/zhongyang219/TrafficMonitor/releases    
+          url: https://github.com/zhongyang219/TrafficMonitor/releases
+        - name: HEU_Activator
+          description: HEU
+          url: https://github.com/zbezj/HEU_KMS_Activator
     
     
     - name: 社区资讯  
@@ -177,9 +177,6 @@ content:
         - name: 北京大学公开课
           description: 北京大学公开课
           url: http://opencourse.pku.edu.cn/course/opencourse2/index.html
-        - name: 网易公开课
-          description: 网易视频公开课频道推出国内外名校公开课
-          url:  https://open.163.com/
         - name: 腾讯课堂
           description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师
           url:  https://ke.qq.com/
