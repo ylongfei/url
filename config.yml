@@ -55,9 +55,6 @@ content:
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
-        - name: 今日热榜
-          description: 今日热榜提供各站热榜聚合
-          url: https://tophub.today/
         - name: my导航
           description: 网站软件收藏
           url: http://yanglf.ysepan.com/
@@ -125,7 +122,6 @@ content:
         - name: 大眼仔
           description: 提供各类PC软件,绿色软件,汉化软件,软件教程
           url: http://www.dayanzai.me/
-        
         - name: Ventoy
           description: 新一代多系统启动U盘解决方案
           url: https://www.ventoy.net/cn/index.html
@@ -153,7 +149,6 @@ content:
         - name: lx-music-desktop
           description: 洛雪音乐助手
           url: https://github.com/lyswhut/lx-music-desktop
-    
     
     - name: 社区资讯  
       sites:
@@ -264,8 +259,7 @@ content:
           url: http://www.foundertype.com/
         - name: 字体传奇网
           description: 中国首个字体品牌设计师交流网
-          url: http://ziticq.com/     
-   
+          url: http://ziticq.com/
     - name: 网址导航
       sites:
         - name: 有趣网站之家
@@ -292,4 +286,3 @@ content:
         - name: 学术屋
           description: 学术屋导航
           url: http://sci.xueshuwu.cn/
- 
