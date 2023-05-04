@@ -149,6 +149,9 @@ content:
         - name: HEU_Activator
           description: HEU
           url: https://github.com/zbezj/HEU_KMS_Activator
+        - name: QuickLook
+          description: QuickLook
+          url: https://github.com/QL-Win/QuickLook
         - name: lx-music-desktop
           description: 洛雪音乐助手
           url: https://github.com/lyswhut/lx-music-desktop
