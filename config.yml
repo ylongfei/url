@@ -220,7 +220,7 @@ content:
           url: https://www.extfans.com/    
         - name: Greasy Fork
           description: Greasy Fork - 安全、实用的用户脚本大全
-          url: https://greasyfork.org/zh-CN/scripts/
+          url: https://greasyfork.org/zh-CN/scripts?language=all
         - name: Crx搜搜
           description: 浏览器扩展商店
           url: https://www.crxsoso.com/
