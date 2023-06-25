@@ -38,8 +38,7 @@ webstack:
 content:
   categories:
     - name: 常用网站
-      sites:
-       
+      sites: 
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
           url: https://www.kdocs.cn/
@@ -55,7 +54,7 @@ content:
         - name: 河南1+X证书试点协调推进办
           description: 河南省1+X证书制度试点工作协调推进办公室
           url: http://hnvslc.hncc.edu.cn
-          - name: 测网速
+        - name: 测网速
           description: 网络测速
           url: https://www.speedtest.cn/
         - name: 阿虚同学的储物间
