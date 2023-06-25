@@ -26,7 +26,7 @@ google_analytics: "G-EXE1PJ8CR2"
 webstack:
   search:
     enabled: true
-    default: baidu
+    默认: baidu
     # 可选的搜索引擎
     engines:
       - baidu
@@ -46,12 +46,18 @@ content:
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
-        - name: 测网速
-          description: 网络测速
-          url: https://www.speedtest.cn/
+        - name: 1+X技能等级证书信息管理平台
+          description: 1+X职业技能等级证书信息管理服务平台
+          url: https://vslc.ncb.edu.cn
         - name: 河南地矿职业学院
           description: 河南地矿职业学院官网
           url: http://www.hagmc.edu.cn/
+        - name: 河南1+X证书试点协调推进办
+          description: 河南省1+X证书制度试点工作协调推进办公室
+          url: http://hnvslc.hncc.edu.cn
+          - name: 测网速
+          description: 网络测速
+          url: https://www.speedtest.cn/
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
@@ -59,7 +65,7 @@ content:
           description: 网站软件收藏
           url: http://yanglf.ysepan.com/
         - name: blog
-          description: Blog
+          description: 博客
           url: https://ylfei.github.io/
         
     - name: 电子邮箱
