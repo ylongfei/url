@@ -58,9 +58,9 @@ content:
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
-        - name: 奔跑中的奶酪
-          description: 技术分享
-          url: https://www.runningcheese.com/
+        - name: 今日热榜
+          description: 新闻热搜榜
+          url: https://tophub.today/c/news
         - name: 测网速
           description: 网络测速
           url: https://www.speedtest.cn/
@@ -140,6 +140,9 @@ content:
         - name: Ventoy
           description: 新一代多系统启动U盘解决方案
           url: https://www.ventoy.net/cn/index.html
+        - name: 奔跑中的奶酪
+          description: 技术分享
+          url: https://www.runningcheese.com/
         - name: 优启通
           description: 专业U盘启动制作工具
           url: https://www.upe.net/
