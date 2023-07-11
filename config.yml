@@ -42,9 +42,6 @@ content:
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
           url: https://www.kdocs.cn/
-        - name: 河南1+X证书试点协调推进办
-          description: 河南省1+X证书制度试点工作协调推进办公室
-          url: http://hnvslc.hncc.edu.cn
         - name: 1+X技能等级证书信息管理平台
           description: 1+X职业技能等级证书信息管理服务平台
           url: https://vslc.ncb.edu.cn
