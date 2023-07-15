@@ -41,23 +41,20 @@ content:
       sites: 
         - name: 金山文档
           description: 可多人实时协作编辑的在线文档
-          url: https://www.kdocs.cn/
-        - name: 1+X技能等级证书信息管理平台
-          description: 1+X职业技能等级证书信息管理服务平台
-          url: https://vslc.ncb.edu.cn
-        - name: 河南地矿职业学院
-          description: 河南地矿职业学院官网
-          url: http://www.hagmc.edu.cn/
+          url: https://www.kdocs.cn
         - name: 中国大学MOOC（慕课）
           description: 中国大学MOOC（慕课）国家精品课程在线学习平台
           url: https://www.icourse163.org/
-        
-        - name: 阿虚同学的储物间
-          description: 实用导航
-          url: https://axutongxue.gitee.io/
+        - name: 河南地矿职业学院
+          description: 河南地矿职业学院官网
+          url: http://www.hagmc.edu.cn/
         - name: 今日热榜
           description: 新闻热搜榜
           url: https://tophub.today/c/news
+        - name: 阿虚同学的储物间
+          description: 实用导航
+          url: https://axutongxue.gitee.io/
+        
         - name: 测网速
           description: 网络测速
           url: https://www.speedtest.cn/
