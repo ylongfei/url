@@ -54,7 +54,9 @@ content:
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
-        
+        - name: IT天空
+          description: 以系统封装技术与驱动技术为主的综合性IT站点
+          url: https://www.itsk.com/
         - name: 测网速
           description: 网络测速
           url: https://www.speedtest.cn/
