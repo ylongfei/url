@@ -48,6 +48,9 @@ content:
         - name: 河南地矿职业学院
           description: 河南地矿职业学院官网
           url: http://www.hagmc.edu.cn/
+        - name: 阿里云中学堂
+          description: 云中学堂”是阿里云培训中心面向客户提供的集“学-练-测-证”于一体的一站式在线学习与实践平台，依托阿里云产品技术与企业实践，提供云计算、大数据、人工智能等多个领域
+          url: https://college.aliyun.com
         - name: 今日热榜
           description: 新闻热搜榜
           url: https://tophub.today/c/news
