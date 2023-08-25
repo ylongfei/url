@@ -51,15 +51,16 @@ content:
         - name: 阿里云中学堂
           description: 云中学堂”是阿里云培训中心面向客户提供的集“学-练-测-证”于一体的一站式在线学习与实践平台，依托阿里云产品技术与企业实践，提供云计算、大数据、人工智能等多个领域
           url: https://college.aliyun.com
-        - name: 今日热榜
-          description: 新闻热搜榜
-          url: https://tophub.today/c/news
+        
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
         - name: IT天空
           description: 以系统封装技术与驱动技术为主的综合性IT站点
           url: https://www.itsk.com/
+        - name: 今日热榜
+          description: 新闻热搜榜
+          url: https://tophub.today/c/news
         - name: 测网速
           description: 网络测速
           url: https://www.speedtest.cn/
@@ -288,9 +289,6 @@ content:
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
-        - name: 24K导航
-          description: 专注全网优质网址、优质资源分享
-          url: https://www.24kdh.com/
         - name: 科塔学术导航
           description: 提供科研网站导航，网址库等服务
           url: https://site.sciping.com/
