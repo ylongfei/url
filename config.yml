@@ -108,9 +108,7 @@ content:
         - name: 央视纪实
           description: 汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、NHK等
           url: http://jishi.cctv.com/
-        - name: 新点亮视频
-          description: 新点亮视频网页版
-          url: https://dianliang521.github.io/xindianliangshipin/index.html
+    
     - name: 软件工具
       sites:
         - name: MSND
