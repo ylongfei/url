@@ -51,7 +51,6 @@ content:
         - name: 阿里云中学堂
           description: 云中学堂”是阿里云培训中心面向客户提供的集“学-练-测-证”于一体的一站式在线学习与实践平台，依托阿里云产品技术与企业实践，提供云计算、大数据、人工智能等多个领域
           url: https://college.aliyun.com
-        
         - name: 阿虚同学的储物间
           description: 实用导航
           url: https://axutongxue.gitee.io/
@@ -69,7 +68,7 @@ content:
           url: http://yanglf.ysepan.com/
         - name: blog
           description: 博客
-          url: https://ylfei.github.io/
+          url: https://z00o.gitee.io/
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
@@ -164,11 +163,7 @@ content:
           url: https://github.com/zbezj/HEU_KMS_Activator
         - name: QuickLook
           description: QuickLook
-          url: https://github.com/QL-Win/QuickLook
-        - name: lx-music-desktop
-          description: 洛雪音乐助手
-          url: https://github.com/lyswhut/lx-music-desktop
-    
+          url: https://github.com/QL-Win/QuickLook    
     - name: 社区资讯  
       sites:
         - name: IT之家
